@@ -1,0 +1,441 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>controller: Go Coverage Report</title>
+		<style>
+			body {
+				background: black;
+				color: rgb(80, 80, 80);
+			}
+			body, pre, #legend span {
+				font-family: Menlo, monospace;
+				font-weight: bold;
+			}
+			#topbar {
+				background: black;
+				position: fixed;
+				top: 0; left: 0; right: 0;
+				height: 42px;
+				border-bottom: 1px solid rgb(80, 80, 80);
+			}
+			#content {
+				margin-top: 50px;
+			}
+			#nav, #legend {
+				float: left;
+				margin-left: 10px;
+			}
+			#legend {
+				margin-top: 12px;
+			}
+			#nav {
+				margin-top: 10px;
+			}
+			#legend span {
+				margin: 0 5px;
+			}
+			.cov0 { color: rgb(192, 0, 0) }
+.cov1 { color: rgb(128, 128, 128) }
+.cov2 { color: rgb(116, 140, 131) }
+.cov3 { color: rgb(104, 152, 134) }
+.cov4 { color: rgb(92, 164, 137) }
+.cov5 { color: rgb(80, 176, 140) }
+.cov6 { color: rgb(68, 188, 143) }
+.cov7 { color: rgb(56, 200, 146) }
+.cov8 { color: rgb(44, 212, 149) }
+.cov9 { color: rgb(32, 224, 152) }
+.cov10 { color: rgb(20, 236, 155) }
+
+		</style>
+	</head>
+	<body>
+		<div id="topbar">
+			<div id="nav">
+				<select id="files">
+				
+				<option value="file0">github.com/cultureamp/public-api/api/controller/employees.go (68.9%)</option>
+				
+				<option value="file1">github.com/cultureamp/public-api/api/middleware/auth/auth.go (97.1%)</option>
+				
+				<option value="file2">github.com/cultureamp/public-api/api/middleware/auth/scopes.go (100.0%)</option>
+				
+				<option value="file3">github.com/cultureamp/public-api/api/service/employees.go (19.6%)</option>
+				
+				</select>
+			</div>
+			<div id="legend">
+				<span>not tracked</span>
+			
+				<span class="cov0">not covered</span>
+				<span class="cov8">covered</span>
+			
+			</div>
+		</div>
+		<div id="content">
+		
+		<pre class="file" id="file0" style="display: none">package controller
+
+import (
+        "github.com/cultureamp/public-api/api/controller/helper"
+        authz "github.com/cultureamp/public-api/api/middleware/auth"
+        "github.com/cultureamp/public-api/api/service"
+        client "github.com/cultureamp/public-api/common/datastore"
+        "github.com/gin-gonic/gin"
+        "log"
+        "net/http"
+)
+
+func GetEmployees(c *gin.Context) <span class="cov8" title="1">{
+        // Authorise the request
+        payload, ok := c.MustGet(authz.AuthorizationPayloadKey).(*authz.Payload)
+        if !ok </span><span class="cov0" title="0">{
+                responseCode := http.StatusUnauthorized
+                responseError := helper.ErrorResponse(responseCode, "unable to parse payload")
+                log.Println(responseError)
+                c.AbortWithStatusJSON(responseCode, responseError)
+                return
+        }</span>
+
+        // Retrieve the query parameters for this endpoint
+        <span class="cov8" title="1">email := helper.GetQueryParam(c, helper.GetEmployeeByIdEmailQueryParam)
+        externalId := helper.GetQueryParam(c, helper.GetEmployeeByIdExternalIdQueryParam)
+
+        employeeService := initService(c)
+        employeesResponse, err := employeeService.GetEmployees(c, payload.AccountId, email, externalId)
+        if err != nil </span><span class="cov8" title="1">{
+                responseCode := http.StatusInternalServerError
+                responseError := helper.ErrorResponse(responseCode, err.Error())
+                log.Println(responseError)
+                c.AbortWithStatusJSON(responseCode, responseError)
+                return
+        }</span>
+
+        <span class="cov0" title="0">c.IndentedJSON(http.StatusOK, employeesResponse)</span>
+}
+
+func GetEmployeeById(c *gin.Context) <span class="cov8" title="1">{
+        id := c.Params.ByName("id")
+        log.Print("GetEmployeeById - id: ", id)
+
+        // Authorise the request
+        payload, ok := c.MustGet(authz.AuthorizationPayloadKey).(*authz.Payload)
+        if !ok </span><span class="cov0" title="0">{
+                responseCode := http.StatusUnauthorized
+                responseError := helper.ErrorResponse(responseCode, "unable to parse payload")
+                log.Println(responseError)
+                c.AbortWithStatusJSON(responseCode, responseError)
+                return
+        }</span>
+
+        <span class="cov8" title="1">employeeService := initService(c)
+        employeeByIdResponse, err := employeeService.GetEmployeeById(c, payload.AccountId, id)
+        if err != nil </span><span class="cov8" title="1">{
+                responseCode := http.StatusInternalServerError
+                responseError := helper.ErrorResponse(responseCode, "An error occurred retrieving the Employee by Id from the database")
+                log.Println(responseError)
+                c.AbortWithStatusJSON(responseCode, responseError)
+                return
+        }</span>
+
+        <span class="cov0" title="0">c.IndentedJSON(http.StatusOK, employeeByIdResponse)</span>
+}
+func initService(ctx *gin.Context) service.IEmployeeService <span class="cov8" title="1">{
+        var employeeService service.IEmployeeService
+
+        if employeeService != nil </span><span class="cov0" title="0">{
+                return employeeService
+        }</span>
+
+        <span class="cov8" title="1">var employeeDbConfig client.DynamoDBConfig
+
+        employeeDbClient, err := client.NewClient(ctx, &amp;employeeDbConfig)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Print(err)
+        }</span>
+        <span class="cov8" title="1">employeeService = service.NewEmployeeService(employeeDbClient)
+        return employeeService</span>
+}
+</pre>
+		
+		<pre class="file" id="file1" style="display: none">package authz
+
+import (
+        "errors"
+        "github.com/cultureamp/public-api/api/controller/helper"
+        "github.com/gin-gonic/gin"
+        "github.com/golang-jwt/jwt/v4"
+        "log"
+        "net/http"
+        "strings"
+)
+
+const (
+        AuthorizationHeaderKey  = "Authorization"
+        AuthorizationTypeBearer = "Bearer"
+        AuthorizationPayloadKey = "auth_payload"
+)
+
+// Payload represents the jwt payload
+type Payload struct {
+        AccountId   string            `json:"account_id" binding:"required"`
+        EntityId    string            `json:"aud" binding:"required"`
+        Permissions map[string]Scopes `json:"permissions"`
+        jwt.RegisteredClaims
+}
+
+var jwtParser = new(jwt.Parser)
+
+func AuthorizationMiddleware(requiredScopes []string) gin.HandlerFunc <span class="cov8" title="1">{
+        return func(ctx *gin.Context) </span><span class="cov8" title="1">{
+                log.Println("authorizing request")
+                request := ctx.Request
+                payload, err := payloadFromRequest(request)
+                if err != nil </span><span class="cov8" title="1">{
+                        log.Println(err)
+                        errorResponse := helper.ErrorResponse(http.StatusUnauthorized, err.Error())
+                        ctx.AbortWithStatusJSON(http.StatusUnauthorized, errorResponse)
+                        return
+                }</span>
+                <span class="cov8" title="1">allowedScopes := payload.Permissions[payload.EntityId]
+                authorized := allowedScopes.Contain(requiredScopes)
+                if !authorized </span><span class="cov8" title="1">{
+                        authorizationError := errors.New("unauthorized request")
+                        log.Print(authorizationError)
+                        errorResponse := helper.ErrorResponse(http.StatusUnauthorized, authorizationError.Error())
+                        ctx.AbortWithStatusJSON(http.StatusUnauthorized, errorResponse)
+                }</span>
+                <span class="cov8" title="1">ctx.Set(AuthorizationPayloadKey, payload)
+                ctx.Next()</span>
+        }
+}
+
+// payloadFromRequest returns a Payload given a http.Request and a DecodeJwtToken
+func payloadFromRequest(r *http.Request) (*Payload, error) <span class="cov8" title="1">{
+        auth := r.Header.Get(AuthorizationHeaderKey) // "Authorization: Bearer xxxxx.yyyyy.zzzzz"
+        if len(auth) == 0 </span><span class="cov8" title="1">{
+                return nil, errors.New("missing authorization header")
+        }</span>
+
+        <span class="cov8" title="1">splitToken := strings.Split(auth, AuthorizationTypeBearer)
+        if len(splitToken) &lt; 2 </span><span class="cov8" title="1">{
+                return nil, errors.New("missing 'Bearer' token in authorization header")
+        }</span>
+
+        <span class="cov8" title="1">token := strings.TrimSpace(splitToken[1])
+        return parse(token)</span>
+}
+
+func parse(tokenString string) (*Payload, error) <span class="cov8" title="1">{
+        payload := new(Payload)
+        var token, _, err = jwtParser.ParseUnverified(tokenString, payload)
+        if err != nil </span><span class="cov8" title="1">{
+                e := errors.New("Invalid token: " + err.Error())
+                log.Println(e)
+                return nil, e
+        }</span>
+        <span class="cov8" title="1">if claims, ok := token.Claims.(*Payload); ok &amp;&amp;
+                len(claims.AccountId) &gt; 0 &amp;&amp;
+                len(claims.EntityId) &gt; 0 &amp;&amp;
+                claims.Permissions != nil </span><span class="cov8" title="1">{
+                return claims, nil
+        }</span>
+        <span class="cov0" title="0">return nil, errors.New("payload doesn't conform to JWT Claims interface")</span>
+}
+</pre>
+		
+		<pre class="file" id="file2" style="display: none">package authz
+
+// Scopes represents allowed scopes in JWT
+type Scopes []string
+
+func (allowedScopes *Scopes) Contain(requiredScopes []string) bool <span class="cov8" title="1">{
+        for _, scope := range requiredScopes </span><span class="cov8" title="1">{
+                exists := false
+                for _, allowedScope := range *allowedScopes </span><span class="cov8" title="1">{
+                        if scope == allowedScope </span><span class="cov8" title="1">{
+                                exists = true
+                                break</span>
+                        }
+                }
+                <span class="cov8" title="1">if !exists </span><span class="cov8" title="1">{
+                        return false
+                }</span>
+        }
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file3" style="display: none">package service
+
+import (
+        "context"
+        client "github.com/cultureamp/public-api/common/datastore"
+        "log"
+
+        ds_models "github.com/cultureamp/public-api/common/datastore/models"
+        "github.com/cultureamp/public-api/common/models"
+        "github.com/cultureamp/public-api/common/transform"
+)
+
+type IEmployeeService interface {
+        GetEmployeeById(ctx context.Context, accountId string, id string) (*models.EmployeeByIDResponse, error)
+        GetEmployees(ctx context.Context, accountId string, externalId *string, email *string) (*models.EmployeesResponse, error)
+}
+
+type EmployeeService struct {
+        dbClient client.IEmployeeServiceRepository
+}
+
+func NewEmployeeService(client client.IEmployeeServiceRepository) IEmployeeService <span class="cov8" title="1">{
+
+        es := &amp;EmployeeService{
+                dbClient: client,
+        }
+
+        return es
+}</span>
+
+func (employeeService *EmployeeService) GetEmployeeById(ctx context.Context, accountId string, id string) (*models.EmployeeByIDResponse, error) <span class="cov8" title="1">{
+
+        // GetEmployeeByAggregateIdInput type is required data for fetching an employee by their aggregate ID
+        input := ds_models.GetEmployeeByAggregateIdInput{
+                AccountID:   accountId,
+                AggregateID: id,
+        }
+
+        getEmployeeByIdData, err := employeeService.dbClient.GetEmployeeByAggregateId(ctx, &amp;input)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("GetEmployeeById &gt; failed with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        // Transform the data from db structure to api structure
+        <span class="cov8" title="1">apiEmployeeData, err := transform.TransformDbEmployeeToApiEmployee(*getEmployeeByIdData)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("GetEmployeeById &gt; failed transformation with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        <span class="cov8" title="1">response := models.EmployeeByIDResponse{
+                Data: apiEmployeeData,
+        }
+
+        return &amp;response, nil</span>
+}
+
+func (employeeService *EmployeeService) GetEmployees(ctx context.Context, accountId string, externalId *string, email *string) (*models.EmployeesResponse, error) <span class="cov0" title="0">{
+
+        var getEmployeesData []ds_models.DSEmployee
+        var err error
+
+        // If the externalId is provided we know we can retrieve the employees by the externalId
+        if externalId != nil &amp;&amp; len(*externalId) &gt; 0 </span><span class="cov0" title="0">{
+                getEmployeesData, err = employeeService.getEmployeeByExternalId(ctx, accountId, externalId)
+        }</span> else<span class="cov0" title="0"> if email != nil &amp;&amp; len(*email) &gt; 0 </span><span class="cov0" title="0">{
+                getEmployeesData, err = employeeService.getEmployeesByEmail(ctx, accountId, email)
+        }</span> else<span class="cov0" title="0"> {
+                getEmployeesData, err = employeeService.getEmployeesByAccountId(ctx, accountId)
+        }</span>
+
+        <span class="cov0" title="0">if err != nil </span><span class="cov0" title="0">{
+                log.Printf("GetEmployees &gt; failed with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        // Transform the data from db structure to api structure
+        <span class="cov0" title="0">apiEmployeesData, err := transform.TransformDbEmployeesToApiEmployees(getEmployeesData)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("GetEmployeeById &gt; failed transformation with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        <span class="cov0" title="0">response := models.EmployeesResponse{
+                Data:       apiEmployeesData,
+                Pagination: nil,
+        }
+
+        return &amp;response, nil</span>
+
+}
+
+// A sub function of GetEmployees when a query parameter of externalId is provided
+func (employeeService *EmployeeService) getEmployeeByExternalId(ctx context.Context, accountId string, externalId *string) ([]ds_models.DSEmployee, error) <span class="cov0" title="0">{
+
+        // GetEmployeeByAggregateIdInput type is required data for fetching an employee by their aggregate ID
+        input := ds_models.GetEmployeesByExternalIdInput{
+                AccountID:  accountId,
+                ExternalID: *externalId,
+        }
+
+        getEmployeesByExternalIdData, err := employeeService.dbClient.GetEmployeesByExternalId(ctx, &amp;input)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("getEmployeeByExternalId &gt; failed with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        <span class="cov0" title="0">return getEmployeesByExternalIdData, nil</span>
+}
+
+// A sub function of GetEmployees when a query parameter of email is provided
+func (employeeService *EmployeeService) getEmployeesByEmail(ctx context.Context, accountId string, email *string) ([]ds_models.DSEmployee, error) <span class="cov0" title="0">{
+
+        // GetEmployeeByAggregateIdInput type is required data for fetching an employee by their aggregate ID
+        input := ds_models.GetEmployeesByEmailInput{
+                AccountID: accountId,
+                Email:     *email,
+        }
+
+        getEmployeesByEmailData, err := employeeService.dbClient.GetEmployeesByEmail(ctx, &amp;input)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("getEmployeesByEmail &gt; failed with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        <span class="cov0" title="0">return getEmployeesByEmailData, nil</span>
+}
+
+// A sub function of GetEmployees when no query parameter is provided, thus returning all employees for an account id
+func (employeeService *EmployeeService) getEmployeesByAccountId(ctx context.Context, accountId string) ([]ds_models.DSEmployee, error) <span class="cov0" title="0">{
+
+        getEmployeesByAccountIdData, err := employeeService.dbClient.GetEmployeesByAccountId(ctx, accountId)
+        if err != nil </span><span class="cov0" title="0">{
+                log.Printf("getEmployeesByAccountId &gt; failed with error : %v\n", err)
+                return nil, err
+        }</span>
+
+        <span class="cov0" title="0">return getEmployeesByAccountIdData, nil</span>
+}
+</pre>
+		
+		</div>
+	</body>
+	<script>
+	(function() {
+		var files = document.getElementById('files');
+		var visible;
+		files.addEventListener('change', onChange, false);
+		function select(part) {
+			if (visible)
+				visible.style.display = 'none';
+			visible = document.getElementById(part);
+			if (!visible)
+				return;
+			files.value = part;
+			visible.style.display = 'block';
+			location.hash = part;
+		}
+		function onChange() {
+			select(files.value);
+			window.scrollTo(0, 0);
+		}
+		if (location.hash != "") {
+			select(location.hash.substr(1));
+		}
+		if (!visible) {
+			select("file0");
+		}
+	})();
+	</script>
+</html>
