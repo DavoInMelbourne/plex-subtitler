@@ -1,4 +1,3 @@
-SHELL:=/bin/bash
 
 # project details
 PRODUCT = papi
@@ -15,7 +14,7 @@ BUILD_OVERRIDES = \
 	-X "$(PACKAGE)/pkg/app.Name=$(APPNAME)" \
 	-X "$(PACKAGE)/pkg/app.Product=$(PRODUCT)" \
 	-X "$(PACKAGE)/pkg/app.Branch=$(BRANCH_NAME)" \
-	-X "$(PACKAGE)/pkg/app.BuildDate=$(BUILD_DATE)" \
+	-X "$(PACKAGE)/pkg/app.BuildDate=build$(BUILD_DATE)" \
 	-X "$(PACKAGE)/pkg/app.Commit=$(GIT_COMMIT)" \
 	-X "$(PACKAGE)/pkg/app.Version=$(VERSION)" \
 
@@ -37,5 +36,5 @@ build-main:
 		-ldflags='-w -s $(BUILD_OVERRIDES)' \
 		-o $(DIST_DIR) $(CMDPATH)/main.go
 
-.PHONY: build-api
-build-api: clean-dist build-main
+.PHONY: build
+build: clean-dist build-main

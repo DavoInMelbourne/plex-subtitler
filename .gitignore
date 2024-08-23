@@ -61,6 +61,7 @@ lerna-debug.log*
 
 # IDE
 .vscode/
+.idea/
 
 # api domain
 api/gen/papi-swagger.yaml
@@ -72,3 +73,7 @@ common/models
 # Everywhere
 */**/cover.html
 */**/cover.out
+
+
+# bin dir
+bin/
