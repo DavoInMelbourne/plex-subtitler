@@ -47,18 +47,26 @@ func ProcessFile(startDir string, filename string) {
 	subtitleFullFileName := ""
 	subsDir := ""
 	showDir = strings.Repeat(startDir, 1)
+	fileType := ""
 
-	// Check if the file ends in .mp4, in which case it could have subtitles
-	if strings.HasSuffix(filename, ".mp4") {
-		subtitleBasename = strings.TrimSuffix(filename, ".mp4")
+	// Check if the file ends in .mp4 or .mkv, in which case it could have subtitles
+	if strings.HasSuffix(filename, ".mp4") || strings.HasSuffix(filename, ".mkv") {
+
+		if strings.HasSuffix(filename, ".mp4") {
+			fileType = ".mp4"
+		} else {
+			fileType = ".mkv"
+		}
+
+		subtitleBasename = strings.TrimSuffix(filename, fileType)
 		subtitleFullFileName = fmt.Sprintf("%s/%s", showDir, subtitleBasename)
 		fmt.Println(filename, " is a show that might have subtitles with subtitle base filename: ", subtitleBasename)
 
 		// Check if we have a subtitle file in the same directory. Lots of movies have these
 		// Replace .mp4 with .srt
-		srtFile := strings.TrimSuffix(filename, ".mp4") + ".srt"
+		srtFile := strings.TrimSuffix(filename, fileType) + ".srt"
 		fullSrtFile := fmt.Sprintf("%s/%s", showDir, srtFile)
-		enSrtFile := strings.TrimSuffix(filename, ".mp4") + ".en.srt"
+		enSrtFile := strings.TrimSuffix(filename, fileType) + ".en.srt"
 		fullEnSrtFile := fmt.Sprintf("%s/%s", showDir, enSrtFile)
 
 		// If the .en.srt file already exists, we don't want to process it again
@@ -96,6 +104,7 @@ func ProcessFile(startDir string, filename string) {
 		strings.HasSuffix(filename, ".txt") ||
 		strings.HasSuffix(filename, ".nfo") ||
 		strings.HasSuffix(filename, ".jpeg") ||
+		strings.HasSuffix(filename, ".exe") ||
 		strings.HasSuffix(filename, ".png") {
 		// Delete the file
 		fullFileName := fmt.Sprintf("%s/%s", showDir, filename)

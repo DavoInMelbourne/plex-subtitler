@@ -1,0 +1,2850 @@
+1
+00:01:36,545 --> 00:01:38,464
+{\an8}Te queda bien así.
+
+2
+00:01:45,971 --> 00:01:47,264
+{\an8}¿Puedo ayudarles?
+
+3
+00:01:47,640 --> 00:01:48,766
+{\an8}Es día de pago.
+
+4
+00:01:48,766 --> 00:01:50,142
+{\an8}Danos el sobre.
+
+5
+00:01:50,142 --> 00:01:53,729
+{\an8}Su jefe desapareció hace meses.
+
+6
+00:01:53,729 --> 00:01:56,273
+{\an8}Kabukicho le pertenece a Chihara-kai.
+
+7
+00:01:57,024 --> 00:02:00,820
+{\an8}Fin de la historia. Así que váyanse.
+
+8
+00:02:02,863 --> 00:02:04,198
+{\an8}Danos el sobre.
+
+9
+00:02:04,198 --> 00:02:06,325
+{\an8}O esta noche
+les haremos eso a tus anfitriones.
+
+10
+00:02:06,325 --> 00:02:07,243
+{\an8}Dales algo de dinero.
+
+11
+00:02:07,243 --> 00:02:08,369
+{\an8}Sí, señora.
+
+12
+00:02:11,413 --> 00:02:13,249
+{\an8}Te sientes importante ahora, ¿no?
+
+13
+00:02:13,874 --> 00:02:17,586
+{\an8}Disfrútalo mientras dure.
+
+14
+00:02:20,840 --> 00:02:23,092
+{\an8}<i>Hoy tenemos como invitado</i>
+
+15
+00:02:23,092 --> 00:02:25,886
+{\an8}<i>a Jake Adelstein,
+periodista del</i> Meicho Shimbun<i>.</i>
+
+16
+00:02:25,886 --> 00:02:27,555
+{\an8}<i>Gracias por venir.</i>
+
+17
+00:02:28,055 --> 00:02:30,933
+{\an8}<i>Su artículo</i>
+
+18
+00:02:30,933 --> 00:02:34,311
+{\an8}<i>sobre las pandillas de motos Bosozoku
+ha despertado mucho interés.</i>
+
+19
+00:02:34,311 --> 00:02:37,273
+{\an8}<i>¿Cómo se siente con toda la atención?</i>
+
+20
+00:02:37,273 --> 00:02:39,233
+{\an8}<i>No se trata de mí.</i>
+
+21
+00:02:39,233 --> 00:02:42,194
+{\an8}<i>Pasé mucho tiempo con estos jóvenes.</i>
+
+22
+00:02:42,945 --> 00:02:45,531
+{\an8}<i>Son una parte de la sociedad
+de la que no sabemos.</i>
+
+23
+00:02:46,907 --> 00:02:49,869
+{\an8}<i>Y ha escrito otro artículo
+sobre los motivos de eso.</i>
+
+24
+00:02:49,869 --> 00:02:54,206
+{\an8}<i>¿Cree que ser extranjero le da
+una perspectiva única?</i>
+
+25
+00:02:54,832 --> 00:02:55,583
+{\an8}<i>Diría que me da...</i>
+
+26
+00:02:56,667 --> 00:02:57,960
+Parezco un idiota.
+
+27
+00:02:59,336 --> 00:03:01,964
+No. Sonaste listo.
+
+28
+00:03:02,631 --> 00:03:05,175
+Y te veías muy guapo.
+
+29
+00:03:17,062 --> 00:03:18,522
+Tus amigos son muy lindos.
+
+30
+00:03:18,522 --> 00:03:20,482
+Lo sé. Siempre se los digo.
+
+31
+00:03:26,155 --> 00:03:28,157
+Es solo una amiga, Samantha.
+
+32
+00:03:35,247 --> 00:03:36,290
+¿San Luis?
+
+33
+00:03:37,374 --> 00:03:38,208
+Sí.
+
+34
+00:03:38,709 --> 00:03:41,045
+Es para ir a casa,
+al cumpleaños de mi padre.
+
+35
+00:03:41,879 --> 00:03:44,798
+Y ¿el <i>Meicho</i> le dará vacaciones
+a su reportero estrella?
+
+36
+00:03:51,805 --> 00:03:53,390
+¿Y no quieres ir?
+
+37
+00:03:55,142 --> 00:03:56,352
+No, es algo...
+
+38
+00:03:57,144 --> 00:03:58,729
+complicado con mi familia.
+
+39
+00:04:00,064 --> 00:04:01,398
+Y prefiero quedarme contigo.
+
+40
+00:04:03,859 --> 00:04:06,987
+{\an8}Pasa el día conmigo.
+
+41
+00:04:06,987 --> 00:04:08,906
+{\an8}Sabes que no puedo.
+
+42
+00:04:08,906 --> 00:04:13,160
+{\an8}Entonces, salgamos esta noche.
+Solo una vez.
+
+43
+00:04:13,160 --> 00:04:14,578
+Sí salimos.
+
+44
+00:04:15,037 --> 00:04:16,288
+¿Nuestro punto de encuentro?
+
+45
+00:04:17,748 --> 00:04:18,749
+Eso no es salir.
+
+46
+00:04:22,419 --> 00:04:25,339
+¿No estás harta de escabullirte aquí
+y jamás salir de mi cuarto?
+
+47
+00:04:28,133 --> 00:04:29,134
+Jake.
+
+48
+00:04:31,929 --> 00:04:33,639
+Sabes que es muy peligroso.
+
+49
+00:04:35,975 --> 00:04:37,977
+- Ya no quiero esconderme.
+- Yo tampoco.
+
+50
+00:04:38,519 --> 00:04:41,146
+Pero hay que ser pacientes. Y cuidadosos.
+
+51
+00:04:42,982 --> 00:04:45,234
+Porque realmente soy bueno
+en ser paciente y cuidadoso.
+
+52
+00:04:50,406 --> 00:04:51,949
+{\an8}Hiroshi Shibuya.
+
+53
+00:04:52,700 --> 00:04:55,494
+{\an8}Arrestado por apuñalar a un hombre
+mientras intentaba cobrar una deuda.
+
+54
+00:04:55,869 --> 00:04:57,079
+{\an8}Un soldado de la yakuza.
+
+55
+00:04:57,079 --> 00:05:00,416
+{\an8}Señor Shibuya, bien hecho. ¿Y?
+
+56
+00:05:00,416 --> 00:05:02,251
+{\an8}Lo hacía en nombre de su organización.
+
+57
+00:05:02,251 --> 00:05:03,544
+{\an8}Perfecto. ¿Su afiliación?
+
+58
+00:05:04,503 --> 00:05:06,213
+{\an8}Hishinuma-kai.
+
+59
+00:05:07,172 --> 00:05:09,300
+{\an8}Es pequeño. Con pocos fondos
+y pocos hombres.
+
+60
+00:05:12,261 --> 00:05:13,595
+{\an8}Puede ser nuestro caso de prueba.
+
+61
+00:05:17,850 --> 00:05:19,685
+{\an8}¿Cuántos hombres necesitaremos?
+
+62
+00:05:28,402 --> 00:05:29,153
+{\an8}Disculpe.
+
+63
+00:05:30,571 --> 00:05:32,698
+{\an8}Me convocó Yabuki<i>-san.</i>
+
+64
+00:05:33,574 --> 00:05:36,201
+{\an8}¿Necesita algo más ahora?
+
+65
+00:05:36,577 --> 00:05:37,411
+{\an8}No.
+
+66
+00:05:38,871 --> 00:05:42,291
+{\an8}Si eso cambia, hay alguien afuera.
+
+67
+00:05:42,291 --> 00:05:44,418
+{\an8}Regresaré luego con los niños.
+
+68
+00:05:46,045 --> 00:05:46,920
+{\an8}Hagino.
+
+69
+00:05:48,380 --> 00:05:49,381
+{\an8}¿Sí?
+
+70
+00:05:50,924 --> 00:05:55,304
+{\an8}Ha trabajado mucho estos últimos meses.
+
+71
+00:05:56,138 --> 00:05:57,056
+{\an8}Gracias.
+
+72
+00:06:00,851 --> 00:06:02,061
+{\an8}Se ve pálido.
+
+73
+00:06:03,645 --> 00:06:06,523
+{\an8}Tome vitaminas y algo de sol.
+
+74
+00:06:08,859 --> 00:06:09,818
+{\an8}Por favor...
+
+75
+00:06:10,527 --> 00:06:11,737
+{\an8}Cuídese.
+
+76
+00:06:44,061 --> 00:06:45,187
+{\an8}¿Cómo está la señora Tozawa?
+
+77
+00:06:45,854 --> 00:06:47,022
+{\an8}La misma rutina, sin cambios.
+
+78
+00:06:50,192 --> 00:06:51,568
+{\an8}¿Nos convocó?
+
+79
+00:06:58,951 --> 00:07:01,995
+{\an8}¿Pensaron que no me enteraría?
+
+80
+00:07:03,038 --> 00:07:04,873
+{\an8}Devolverán el dinero al club Miralina.
+
+81
+00:07:06,083 --> 00:07:09,169
+{\an8}Y se alejarán de Kabukicho.
+
+82
+00:07:12,339 --> 00:07:15,509
+{\an8}¿Cómo podemos no hacer nada
+mientras Chihara-kai toma lo nuestro?
+
+83
+00:07:16,009 --> 00:07:19,429
+{\an8}Tozawa<i>-kumicho</i> nunca permitiría esto.
+
+84
+00:07:29,773 --> 00:07:30,983
+{\an8}Necesita una lección.
+
+85
+00:07:31,650 --> 00:07:32,693
+{\an8}Hazlo.
+
+86
+00:07:34,403 --> 00:07:35,320
+{\an8}Ahora.
+
+87
+00:07:42,202 --> 00:07:43,120
+{\an8}Más fuerte.
+
+88
+00:07:52,296 --> 00:07:53,922
+{\an8}Sáquenlos de aquí.
+
+89
+00:08:04,975 --> 00:08:05,726
+{\an8}¿Qué?
+
+90
+00:08:10,689 --> 00:08:13,525
+{\an8}Los otros tampoco entienden.
+
+91
+00:08:15,736 --> 00:08:19,865
+{\an8}De a poco, Chihara-kai se apropia
+de lo nuestro.
+
+92
+00:08:19,865 --> 00:08:21,617
+{\an8}Y no hacemos nada.
+
+93
+00:08:22,743 --> 00:08:27,497
+{\an8}Nuestros hombres están cada vez
+más inquietos y enojados.
+
+94
+00:08:28,207 --> 00:08:30,167
+{\an8}No necesitan entender.
+
+95
+00:08:31,919 --> 00:08:36,131
+{\an8}Deben hacer lo que les digo.
+
+96
+00:08:42,304 --> 00:08:43,055
+{\an8}Puedes irte.
+
+97
+00:09:20,300 --> 00:09:21,552
+¿Por qué no dejas que te cocine?
+
+98
+00:09:22,344 --> 00:09:24,763
+Ven a mi casa. Te cocinaré algo.
+
+99
+00:09:26,557 --> 00:09:28,684
+- ¿Quiere hacerme de comer?
+- Sí, claro.
+
+100
+00:09:30,102 --> 00:09:31,853
+Qué amable es, Ohno<i>-san.</i>
+
+101
+00:09:33,647 --> 00:09:34,815
+{\an8}Llámame Masa, por favor.
+
+102
+00:09:35,857 --> 00:09:37,359
+{\an8}Con gusto.
+
+103
+00:09:37,359 --> 00:09:39,194
+Y ¿qué me dices?
+
+104
+00:09:42,614 --> 00:09:43,740
+Me halagas.
+
+105
+00:09:43,740 --> 00:09:45,284
+Eso usualmente significa "no".
+
+106
+00:09:45,909 --> 00:09:47,536
+Es solo que tengo reglas.
+
+107
+00:09:48,287 --> 00:09:49,121
+Samantha...
+
+108
+00:09:51,206 --> 00:09:53,250
+Siento que conectamos
+estas últimas semanas.
+
+109
+00:09:55,627 --> 00:09:57,379
+Y quisiera ver qué sucede.
+
+110
+00:09:58,338 --> 00:09:59,298
+Si tú quieres.
+
+111
+00:10:01,883 --> 00:10:03,010
+Déjame pensarlo.
+
+112
+00:10:04,136 --> 00:10:05,053
+Claro.
+
+113
+00:10:07,806 --> 00:10:09,391
+{\an8}¿Qué haces?
+
+114
+00:10:10,142 --> 00:10:12,978
+{\an8}Mojaste a nuestra chica linda.
+
+115
+00:10:20,277 --> 00:10:22,404
+{\an8}Si arrojas algo, hazlo bien.
+
+116
+00:10:23,322 --> 00:10:24,573
+- Vuelvo en un minuto.
+- Claro.
+
+117
+00:10:24,573 --> 00:10:27,117
+Buenas noches, Ohno<i>-san.</i>
+¿Podría hacerle compañía?
+
+118
+00:10:34,708 --> 00:10:36,168
+¿Vas a hacer algo al respecto?
+
+119
+00:10:36,793 --> 00:10:38,211
+No puedo hacer nada.
+
+120
+00:10:43,216 --> 00:10:45,093
+{\an8}¿Todos se divierten?
+
+121
+00:10:45,093 --> 00:10:47,846
+{\an8}Las bebidas están aguadas. Mejora eso.
+
+122
+00:10:47,846 --> 00:10:50,390
+{\an8}Les agradecería si usted y sus colegas
+
+123
+00:10:50,390 --> 00:10:52,517
+{\an8}pudieran disfrutar la noche
+con menos exuberancia.
+
+124
+00:10:52,517 --> 00:10:56,271
+{\an8}Si el chico lindo viene y nos dice
+que nos calmemos, lo haremos.
+
+125
+00:10:56,271 --> 00:10:57,647
+{\an8}Mientras tanto, piérdete.
+
+126
+00:10:57,647 --> 00:10:59,983
+{\an8}No me agrada que me hablen así.
+
+127
+00:10:59,983 --> 00:11:02,319
+{\an8}No volveré a pedirlo amablemente.
+
+128
+00:11:02,861 --> 00:11:06,782
+{\an8}Disculpe. De parte del caballero.
+
+129
+00:11:12,746 --> 00:11:15,749
+{\an8}Así está mejor. Beberemos esto
+y después nos iremos.
+
+130
+00:11:16,833 --> 00:11:18,168
+{\an8}Permiso.
+
+131
+00:11:31,890 --> 00:11:34,184
+{\an8}Gracias por llevarme a casa otra vez.
+
+132
+00:11:35,227 --> 00:11:36,895
+{\an8}No me molesta.
+
+133
+00:11:50,325 --> 00:11:54,037
+{\an8}Siempre estoy famélica
+después del trabajo.
+
+134
+00:11:54,037 --> 00:11:55,497
+{\an8}¿Quieres ir a algún lado?
+
+135
+00:11:55,497 --> 00:11:57,124
+{\an8}Tengo que ir a casa.
+
+136
+00:11:59,876 --> 00:12:02,838
+{\an8}Pero tengo sobras que puedo calentar.
+
+137
+00:12:04,297 --> 00:12:07,050
+{\an8}¿Quieres un poco?
+
+138
+00:12:17,602 --> 00:12:22,441
+{\an8}Debo pagarle a la niñera.
+¿Me disculpas un momento?
+
+139
+00:12:22,441 --> 00:12:23,942
+{\an8}Tómate tu tiempo.
+
+140
+00:12:45,046 --> 00:12:47,382
+{\an8}¿Quién eres?
+
+141
+00:12:49,426 --> 00:12:50,427
+{\an8}Sato.
+
+142
+00:12:51,386 --> 00:12:52,721
+{\an8}¿Dónde está mamá?
+
+143
+00:12:52,721 --> 00:12:54,890
+{\an8}Con tu niñera.
+
+144
+00:12:56,850 --> 00:12:58,810
+{\an8}¿Por qué estás levantado?
+
+145
+00:12:58,810 --> 00:13:01,313
+{\an8}Me despertaste.
+
+146
+00:13:02,189 --> 00:13:03,148
+{\an8}Entiendo.
+
+147
+00:13:04,274 --> 00:13:05,108
+{\an8}Perdón.
+
+148
+00:13:06,026 --> 00:13:08,612
+{\an8}- Deberías volver a la cama.
+- Lo haré.
+
+149
+00:13:08,612 --> 00:13:10,697
+{\an8}Si me lees.
+
+150
+00:13:11,656 --> 00:13:12,407
+{\an8}Vamos.
+
+151
+00:13:14,951 --> 00:13:19,748
+{\an8}"Horneas un pastel, ¿no? Huele delicioso.
+
+152
+00:13:20,707 --> 00:13:24,461
+{\an8}Todos los animales del bosque
+están olisqueando"...
+
+153
+00:13:24,461 --> 00:13:25,462
+{\an8}Mamá.
+
+154
+00:13:27,088 --> 00:13:28,673
+{\an8}- Ya volví.
+- Bienvenida.
+
+155
+00:13:28,673 --> 00:13:31,259
+{\an8}Se despertó y quiso que...
+
+156
+00:13:32,302 --> 00:13:33,178
+{\an8}Gracias.
+
+157
+00:13:34,429 --> 00:13:36,139
+{\an8}Hora de decir buenas noches.
+
+158
+00:13:36,139 --> 00:13:37,766
+{\an8}Buenas noches, búho.
+
+159
+00:13:38,350 --> 00:13:40,310
+{\an8}Buenas noches, búho.
+
+160
+00:13:42,020 --> 00:13:42,854
+{\an8}Buenas noches.
+
+161
+00:13:44,689 --> 00:13:46,107
+{\an8}- ¿Tienes que irte?
+- No.
+
+162
+00:13:47,108 --> 00:13:48,360
+{\an8}Aún tengo hambre.
+
+163
+00:13:49,027 --> 00:13:50,153
+{\an8}Ya voy.
+
+164
+00:13:54,491 --> 00:13:55,951
+{\an8}Hora de dormir, Dai-chan.
+
+165
+00:13:57,327 --> 00:13:59,788
+{\an8}- Búho.
+- Búho.
+
+166
+00:13:59,788 --> 00:14:01,039
+{\an8}Mete los brazos.
+
+167
+00:14:04,167 --> 00:14:05,669
+{\an8}A dormir.
+
+168
+00:14:06,461 --> 00:14:08,046
+{\an8}Estuvo delicioso.
+
+169
+00:14:08,922 --> 00:14:11,091
+{\an8}Solo te gustó por la compañía.
+
+170
+00:14:11,800 --> 00:14:12,842
+{\an8}Puede ser.
+
+171
+00:14:15,262 --> 00:14:17,180
+{\an8}No eres lo que esperaba.
+
+172
+00:14:19,266 --> 00:14:20,433
+{\an8}¿Qué esperabas?
+
+173
+00:14:22,644 --> 00:14:26,940
+{\an8}Otro tipo tatuado. Como los demás.
+
+174
+00:14:29,150 --> 00:14:30,902
+{\an8}Tú tampoco eres lo que esperaba.
+
+175
+00:14:32,028 --> 00:14:33,488
+{\an8}¿Qué esperabas?
+
+176
+00:14:34,614 --> 00:14:36,241
+{\an8}Que fueras aburrida.
+
+177
+00:14:45,333 --> 00:14:47,544
+{\an8}No soy aburrida.
+
+178
+00:15:00,599 --> 00:15:02,309
+{\an8}Hasta pronto.
+
+179
+00:15:13,236 --> 00:15:16,072
+Anoche fue la tercera vez este mes
+que fue a mi club.
+
+180
+00:15:16,072 --> 00:15:18,908
+Está ahuyentando a mis clientes.
+¿Quién carajos es?
+
+181
+00:15:19,659 --> 00:15:20,493
+Hayama.
+
+182
+00:15:21,411 --> 00:15:23,204
+Es el wakagashira de Chihara-kai.
+
+183
+00:15:24,039 --> 00:15:25,457
+Es el subjefe.
+
+184
+00:15:25,457 --> 00:15:28,209
+Sato tenía que cuidar mi club.
+Anoche solo se sentó.
+
+185
+00:15:28,209 --> 00:15:29,669
+No hizo nada por ayudarme.
+
+186
+00:15:29,669 --> 00:15:32,422
+Sí, no puede hacer nada
+porque Hayama es su superior.
+
+187
+00:15:33,131 --> 00:15:36,051
+¿Podrías hablar con él por mí?
+¿Ver si puede hacer algo?
+
+188
+00:15:36,051 --> 00:15:36,885
+¿Con Sato?
+
+189
+00:15:40,138 --> 00:15:41,264
+La última vez que lo vi,
+
+190
+00:15:41,264 --> 00:15:43,099
+me echaron del Onyx
+por querer pelear con él.
+
+191
+00:15:43,725 --> 00:15:44,851
+Así que no nos hablamos.
+
+192
+00:15:46,978 --> 00:15:48,063
+¿Por qué no hablas con él?
+
+193
+00:15:49,606 --> 00:15:50,899
+Creí que ustedes eran...
+
+194
+00:15:53,026 --> 00:15:53,902
+Ya no lo somos.
+
+195
+00:15:54,944 --> 00:15:57,322
+Los negocios y el placer
+no se llevan bien.
+
+196
+00:15:58,740 --> 00:15:59,866
+Sí, eso dicen.
+
+197
+00:16:00,742 --> 00:16:01,743
+¿Estás saliendo con alguien?
+
+198
+00:16:03,286 --> 00:16:04,245
+Sí.
+
+199
+00:16:06,873 --> 00:16:07,749
+Hace un tiempo.
+
+200
+00:16:09,084 --> 00:16:09,876
+Va muy bien.
+
+201
+00:16:10,210 --> 00:16:13,171
+Es complicado, pero me gusta.
+
+202
+00:16:14,381 --> 00:16:15,965
+Mírate, todo un adulto.
+
+203
+00:16:15,965 --> 00:16:17,342
+No te adelantes.
+
+204
+00:16:22,180 --> 00:16:23,682
+No quiero que él esté en mi club.
+
+205
+00:16:26,142 --> 00:16:27,435
+Ve con Sato como amiga.
+
+206
+00:16:29,354 --> 00:16:30,355
+Y pídele ayuda.
+
+207
+00:16:37,570 --> 00:16:42,492
+{\an8}"Agradezco que me abran los ojos
+al estado de la delincuencia juvenil.
+
+208
+00:16:42,492 --> 00:16:47,497
+{\an8}Además, me sorprendió
+que lo escribiera un extranjero".
+
+209
+00:16:47,497 --> 00:16:48,623
+¡Sí!
+
+210
+00:16:49,999 --> 00:16:53,712
+Dos artículos sobre ladrones de motos,
+y ahora eres un héroe.
+
+211
+00:16:53,712 --> 00:16:56,631
+No lo digas. El cinismo es muy malo.
+
+212
+00:16:56,631 --> 00:17:00,343
+Así es. Nuestra misión es
+intentar cambiar las cosas.
+
+213
+00:17:00,343 --> 00:17:02,262
+Sí. Tratar de cambiar las cosas.
+
+214
+00:17:02,262 --> 00:17:05,181
+¿Por qué los estadounidenses creen
+que tienen que arreglar el mundo?
+
+215
+00:17:06,182 --> 00:17:07,350
+Alguien debe hacerlo.
+
+216
+00:17:08,309 --> 00:17:10,103
+Tengo que hacer unas cosas.
+
+217
+00:17:10,103 --> 00:17:13,356
+Pero tomen esto...
+
+218
+00:17:13,356 --> 00:17:18,111
+Invitaciones a un acto oficial
+en la residencia del embajador de EE. UU.
+
+219
+00:17:18,111 --> 00:17:22,657
+Mañana en la noche.
+E irán todos a conseguir fuentes.
+
+220
+00:17:22,657 --> 00:17:24,200
+{\an8}Buenas noches.
+
+221
+00:17:25,452 --> 00:17:27,996
+{\an8}Es agradable ver a la jefa relajada.
+
+222
+00:17:27,996 --> 00:17:30,582
+{\an8}No creo que tenga
+mucho tiempo para divertirse.
+
+223
+00:17:37,839 --> 00:17:39,340
+{\an8}¿Cómo le fue en el último partido?
+
+224
+00:17:41,217 --> 00:17:45,638
+{\an8}Hizo un jonrón. Estaba muy orgulloso.
+
+225
+00:17:46,931 --> 00:17:48,099
+{\an8}Seguro que tú también.
+
+226
+00:17:52,061 --> 00:17:52,937
+{\an8}Oye.
+
+227
+00:17:58,693 --> 00:18:01,237
+{\an8}¿Con cuántos del departamento audiovisual
+del <i>Meicho</i> hablaste?
+
+228
+00:18:01,613 --> 00:18:02,447
+{\an8}Con todos.
+
+229
+00:18:03,573 --> 00:18:06,409
+{\an8}A micrófono cerrado.
+Todos dijeron lo mismo.
+
+230
+00:18:07,660 --> 00:18:09,621
+{\an8}Ninguno pudo haber causado el incendio.
+
+231
+00:18:09,621 --> 00:18:11,372
+{\an8}¿Y les crees?
+
+232
+00:18:14,709 --> 00:18:19,672
+{\an8}Así que alguien del <i>Meicho</i>
+estuvo dispuesto
+
+233
+00:18:19,672 --> 00:18:23,426
+{\an8}a incendiar todo el edificio
+para destruir esa prueba.
+
+234
+00:18:23,426 --> 00:18:25,011
+{\an8}No lo sabemos.
+
+235
+00:18:25,011 --> 00:18:30,016
+{\an8}[coreano] Emi. Que tu lealtad
+no te impida ver el lugar con claridad.
+
+236
+00:18:30,850 --> 00:18:32,352
+{\an8}Tienes demasiado talento para eso.
+
+237
+00:18:44,948 --> 00:18:45,865
+{\an8}Diablos.
+
+238
+00:18:46,825 --> 00:18:47,951
+{\an8}Me tengo que ir.
+
+239
+00:18:47,951 --> 00:18:49,869
+{\an8}Estará bien. Solo llámalo.
+
+240
+00:18:50,578 --> 00:18:52,288
+{\an8}No responde el teléfono.
+
+241
+00:18:54,415 --> 00:18:55,542
+{\an8}Iré contigo.
+
+242
+00:18:56,209 --> 00:19:00,129
+{\an8}Basta. Nos escondemos hace meses.
+
+243
+00:19:01,047 --> 00:19:03,550
+{\an8}¿Tu hermano es demasiado frágil
+para saber de mí?
+
+244
+00:19:03,967 --> 00:19:08,179
+{\an8}No es frágil, está enfermo.
+
+245
+00:19:08,179 --> 00:19:09,013
+{\an8}Emi.
+
+246
+00:19:09,764 --> 00:19:11,683
+{\an8}No tiene dolor de estómago.
+
+247
+00:19:12,976 --> 00:19:14,853
+{\an8}Tu hermano tiene una enfermedad mental.
+
+248
+00:19:15,854 --> 00:19:17,647
+{\an8}Esto no puede continuar.
+
+249
+00:19:18,523 --> 00:19:19,899
+{\an8}Las cosas deben cambiar.
+
+250
+00:19:24,237 --> 00:19:26,489
+{\an8}Es mi hermano.
+
+251
+00:19:28,408 --> 00:19:29,701
+{\an8}Debo irme.
+
+252
+00:19:51,431 --> 00:19:57,103
+{\an8}A continuación, de Felix Mendelssohn,
+"Libro IV Número 1 en la bemol mayor".
+
+253
+00:20:11,492 --> 00:20:13,995
+Creí que nos veríamos la próxima semana.
+
+254
+00:20:17,290 --> 00:20:18,416
+Es algo urgente.
+
+255
+00:20:20,793 --> 00:20:23,087
+¿Es un boleto de avión a Misuri?
+
+256
+00:20:23,463 --> 00:20:24,547
+No, es mejor.
+
+257
+00:20:25,465 --> 00:20:28,176
+Una invitación a una fiesta
+del embajador de EE. UU.
+
+258
+00:20:29,010 --> 00:20:29,886
+Mañana en la noche.
+
+259
+00:20:32,180 --> 00:20:33,473
+Tú serás mi invitada.
+
+260
+00:20:36,559 --> 00:20:40,104
+Te inventamos un nombre
+y te pusimos en la lista.
+
+261
+00:20:40,104 --> 00:20:41,022
+Jake.
+
+262
+00:20:41,940 --> 00:20:43,524
+Igual es riesgoso.
+
+263
+00:20:43,524 --> 00:20:44,567
+Es solo una noche.
+
+264
+00:20:46,027 --> 00:20:46,903
+Tú y yo.
+
+265
+00:20:48,279 --> 00:20:49,364
+En una cita real.
+
+266
+00:20:51,074 --> 00:20:51,824
+Será perfecto.
+
+267
+00:21:34,784 --> 00:21:35,785
+{\an8}[coreano]
+¿Qué es esto?
+
+268
+00:21:36,619 --> 00:21:38,413
+{\an8}Volviste.
+
+269
+00:21:41,332 --> 00:21:44,127
+{\an8}¿Recuerdas que dijiste
+que querías <i>dwaeji-gukbap?</i>
+
+270
+00:21:45,003 --> 00:21:46,546
+{\an8}Teníamos casi todos los ingredientes.
+
+271
+00:21:47,505 --> 00:21:49,424
+{\an8}Huele bien, ¿no?
+
+272
+00:21:50,508 --> 00:21:52,010
+{\an8}Muy bien.
+
+273
+00:21:52,010 --> 00:21:52,844
+{\an8}¿No?
+
+274
+00:21:53,553 --> 00:21:56,973
+{\an8}¿Controlas la sopa mientras corto más col?
+
+275
+00:21:57,932 --> 00:21:58,766
+{\an8}Claro.
+
+276
+00:22:39,223 --> 00:22:40,892
+{\an8}- ¡Me encanta esta canción!
+- ¿Te encanta?
+
+277
+00:22:40,892 --> 00:22:41,809
+{\an8}¿Conoces a este grupo?
+
+278
+00:22:46,731 --> 00:22:48,483
+{\an8}Oye. ¿Conoces a estos tipos?
+
+279
+00:22:49,275 --> 00:22:50,276
+{\an8}Cállate.
+
+280
+00:22:56,074 --> 00:22:57,200
+{\an8}Tú sigues.
+
+281
+00:22:57,200 --> 00:22:58,534
+{\an8}Estoy bien.
+
+282
+00:22:58,534 --> 00:23:00,578
+{\an8}Vamos. Todos tenemos que hacerlo.
+
+283
+00:23:00,578 --> 00:23:02,789
+{\an8}Yo iré después.
+
+284
+00:23:03,623 --> 00:23:06,459
+{\an8}¡Cállense! ¡Estoy cantando!
+
+285
+00:23:06,459 --> 00:23:09,087
+{\an8}Pareces una gata en celo.
+
+286
+00:23:10,004 --> 00:23:12,632
+{\an8}¡Déjalo terminar!
+
+287
+00:23:12,632 --> 00:23:14,217
+{\an8}Sigue, Chico Gato.
+
+288
+00:23:28,856 --> 00:23:30,691
+{\an8}¿Conoces a Hayama?
+
+289
+00:23:31,400 --> 00:23:32,151
+{\an8}¿Quién es Hayama?
+
+290
+00:23:32,902 --> 00:23:34,695
+{\an8}Tu hermano no te cuenta nada, ¿no?
+
+291
+00:23:34,695 --> 00:23:38,616
+{\an8}¿Qué te dije? Nada de trabajo hoy.
+Solo nos divertimos.
+
+292
+00:23:40,618 --> 00:23:43,996
+{\an8}No eres de los nuestros, ¿no?
+
+293
+00:24:25,037 --> 00:24:25,872
+Hola.
+
+294
+00:24:26,706 --> 00:24:27,623
+Hola.
+
+295
+00:24:27,623 --> 00:24:29,792
+Te dejé un mensaje para vernos.
+
+296
+00:24:30,376 --> 00:24:31,752
+Ya venía en camino.
+
+297
+00:24:32,170 --> 00:24:33,212
+Tengo que hablar contigo.
+
+298
+00:24:33,921 --> 00:24:34,755
+Está bien.
+
+299
+00:24:40,094 --> 00:24:41,179
+Tenemos un problema.
+
+300
+00:24:43,389 --> 00:24:45,266
+¿Es sobre Hayama?
+
+301
+00:24:47,101 --> 00:24:48,394
+¿Podrías hablar con Ishida?
+
+302
+00:24:49,145 --> 00:24:51,606
+Para que entienda
+que Hayama afecta mi negocio.
+
+303
+00:24:51,606 --> 00:24:54,066
+El Oyabun lo alejará del club
+
+304
+00:24:54,942 --> 00:24:56,194
+cuando hagas algo por él.
+
+305
+00:24:59,739 --> 00:25:00,698
+El arquitecto.
+
+306
+00:25:02,074 --> 00:25:04,702
+- ¿Ohno<i>-san?</i> ¿Qué quiere de él?
+- Trabaja para la ciudad.
+
+307
+00:25:05,369 --> 00:25:07,163
+Él diseñó el nuevo centro comercial.
+
+308
+00:25:07,622 --> 00:25:09,582
+Se construirá en una estación del tren.
+
+309
+00:25:10,208 --> 00:25:13,211
+El Oyabun quiere saber antes
+cuál estación va a ser.
+
+310
+00:25:14,128 --> 00:25:16,047
+Para comprar el terreno circundante.
+
+311
+00:25:17,173 --> 00:25:20,092
+Antes de que el anuncio haga
+que se eleven los precios.
+
+312
+00:25:20,092 --> 00:25:22,261
+No espiaré a un cliente por ustedes.
+
+313
+00:25:23,095 --> 00:25:25,932
+El éxito de mi club
+depende de la discreción.
+
+314
+00:25:25,932 --> 00:25:30,978
+Para el Oyabun, saber qué estación será
+es más valioso que el club.
+
+315
+00:25:32,021 --> 00:25:33,981
+Y el club le pertenece.
+
+316
+00:25:34,440 --> 00:25:35,816
+¿Estás amenazándome?
+
+317
+00:25:35,816 --> 00:25:37,318
+Te dije que no echaras a Claudine.
+
+318
+00:25:37,318 --> 00:25:39,111
+Pero ella estaba robándome.
+
+319
+00:25:39,111 --> 00:25:40,488
+Trabajaba para nosotros.
+
+320
+00:25:50,081 --> 00:25:51,749
+Ella atendía al arquitecto.
+
+321
+00:25:52,458 --> 00:25:54,585
+Cada noche. Obtenía información.
+
+322
+00:25:56,212 --> 00:25:59,090
+Pero ahora, solo te quiere a ti.
+
+323
+00:26:01,217 --> 00:26:02,510
+Así que termina el trabajo.
+
+324
+00:26:04,720 --> 00:26:05,930
+¿Y si me niego?
+
+325
+00:26:06,681 --> 00:26:07,848
+Por favor, créeme.
+
+326
+00:26:09,600 --> 00:26:10,768
+No te puedes negar.
+
+327
+00:26:15,273 --> 00:26:16,107
+Lo siento.
+
+328
+00:26:16,774 --> 00:26:18,067
+Necesito tu respuesta mañana.
+
+329
+00:26:22,905 --> 00:26:25,950
+{\an8}El plano del cuartel general
+de Hishinuma-kai.
+
+330
+00:26:26,367 --> 00:26:27,410
+{\an8}Entramos por aquí.
+
+331
+00:26:28,619 --> 00:26:30,454
+{\an8}Nos aseguramos
+de que esta puerta esté bloqueada.
+
+332
+00:26:31,163 --> 00:26:33,416
+{\an8}Muchos ya han hecho
+redadas a la yakuza conmigo.
+
+333
+00:26:33,833 --> 00:26:35,751
+{\an8}Esta será diferente.
+
+334
+00:26:35,751 --> 00:26:38,170
+{\an8}La subcomisaria Nagata lo explicará.
+
+335
+00:26:40,381 --> 00:26:44,760
+{\an8}Para empezar, no hicimos
+una cita para la visita de hoy.
+
+336
+00:26:45,761 --> 00:26:49,056
+{\an8}Nuestro objetivo es arrestarlos
+por obstrucción de la labor policial.
+
+337
+00:26:49,890 --> 00:26:54,770
+{\an8}Para eso, deben tocar a uno de nosotros.
+
+338
+00:26:55,688 --> 00:26:57,523
+{\an8}Me aseguraré de que eso pase.
+
+339
+00:26:59,483 --> 00:27:00,318
+{\an8}¿Qué?
+
+340
+00:27:01,777 --> 00:27:02,987
+{\an8}¿Tienes algo que decir?
+
+341
+00:27:04,155 --> 00:27:06,490
+{\an8}Dije que ya era hora, señor.
+
+342
+00:27:09,952 --> 00:27:11,162
+{\an8}- Sí.
+- ¡Bien!
+
+343
+00:27:12,288 --> 00:27:13,247
+{\an8}¿Vamos?
+
+344
+00:27:13,581 --> 00:27:14,415
+{\an8}¡Sí, señor!
+
+345
+00:27:14,415 --> 00:27:15,458
+{\an8}- Vamos.
+- ¡Sí, señor!
+
+346
+00:27:16,959 --> 00:27:23,549
+{\an8}En nombre de Ishida Oyabun, nos honra
+que Hishinuma<i>-san</i> acepte su oferta.
+
+347
+00:27:24,759 --> 00:27:28,137
+{\an8}Ahórrame el discurso, Kobayashi.
+
+348
+00:27:29,764 --> 00:27:34,352
+{\an8}Si mi organización fuera más fuerte,
+no nos uniríamos a ustedes.
+
+349
+00:27:35,061 --> 00:27:36,187
+{\an8}Lo comprendo.
+
+350
+00:27:37,229 --> 00:27:38,189
+{\an8}Pero...
+
+351
+00:27:38,189 --> 00:27:41,025
+{\an8}Son tiempos difíciles para todos nosotros.
+
+352
+00:27:42,610 --> 00:27:47,740
+{\an8}Y nuestras condiciones son más que justas.
+
+353
+00:27:51,952 --> 00:27:55,539
+{\an8}Bien. Terminemos con esto.
+
+354
+00:28:00,961 --> 00:28:02,254
+{\an8}¡Policía! ¡Abran!
+
+355
+00:28:02,254 --> 00:28:05,633
+{\an8}¿Tenían una cita? ¿Qué quieren?
+
+356
+00:28:17,144 --> 00:28:19,230
+{\an8}¿Hiroshi Shibuya está aquí?
+
+357
+00:28:19,230 --> 00:28:21,857
+{\an8}Hace semanas que no viene.
+
+358
+00:28:21,857 --> 00:28:23,609
+{\an8}¿Pero es un asociado?
+
+359
+00:28:23,609 --> 00:28:24,944
+{\an8}- Sí.
+- No respondas eso.
+
+360
+00:28:24,944 --> 00:28:25,820
+{\an8}¿Y qué?
+
+361
+00:28:28,114 --> 00:28:30,533
+{\an8}Su colega fue preso
+por apuñalar a un hombre.
+
+362
+00:28:30,533 --> 00:28:33,994
+{\an8}Mientras cumplía tareas de Hishinuma-kai.
+
+363
+00:28:33,994 --> 00:28:37,665
+{\an8}Lamento que Hishinuma-kai
+no supiera de su visita.
+
+364
+00:28:38,624 --> 00:28:41,585
+{\an8}- Si un asociado...
+- ¡No vinimos a hacer tratos!
+
+365
+00:28:41,585 --> 00:28:48,217
+{\an8}La responsabilidad penal del señor Shibuya
+se extiende a su empleador.
+
+366
+00:28:48,217 --> 00:28:49,510
+{\an8}Señor Hishinuma.
+
+367
+00:28:50,886 --> 00:28:52,430
+{\an8}Queda arrestado.
+
+368
+00:28:52,430 --> 00:28:54,849
+{\an8}Los demás serán interrogados
+
+369
+00:28:54,849 --> 00:28:57,143
+{\an8}bajo sospecha
+de ser cómplices de extorsión.
+
+370
+00:28:57,143 --> 00:28:58,519
+{\an8}¿De qué diablos habla?
+
+371
+00:29:01,439 --> 00:29:03,274
+{\an8}Espere, señora.
+
+372
+00:29:05,651 --> 00:29:06,819
+{\an8}¿Me tiene miedo?
+
+373
+00:29:07,153 --> 00:29:12,241
+{\an8}¿Por qué no corre a casa con mamá?
+
+374
+00:29:12,241 --> 00:29:13,159
+{\an8}¿Qué dijo?
+
+375
+00:29:16,537 --> 00:29:18,456
+{\an8}Queda arrestado
+por obstruir la labor policial.
+
+376
+00:29:18,456 --> 00:29:19,373
+{\an8}¡Ahora!
+
+377
+00:29:20,833 --> 00:29:22,251
+{\an8}¡Él no hizo nada!
+
+378
+00:29:22,918 --> 00:29:24,003
+{\an8}¡Protejan al Oyabun!
+
+379
+00:29:26,255 --> 00:29:28,090
+{\an8}¡No me toques! ¡No somos de este gumi!
+
+380
+00:29:34,472 --> 00:29:35,306
+{\an8}¡Adelante!
+
+381
+00:30:29,026 --> 00:30:31,028
+{\an8}- Te atrapé.
+- ¡Vete a la mierda!
+
+382
+00:30:44,124 --> 00:30:45,209
+{\an8}No lo hagas.
+
+383
+00:30:48,170 --> 00:30:50,881
+{\an8}No quieres ser un asesino de policías.
+
+384
+00:31:15,155 --> 00:31:17,992
+{\an8}¿Cuántas organizaciones yakuza
+hay en esta ciudad? ¿Detective?
+
+385
+00:31:19,743 --> 00:31:20,744
+{\an8}Veinticinco.
+
+386
+00:31:21,495 --> 00:31:25,833
+{\an8}Ahora hay veinticuatro.
+La semana que viene, veintitrés.
+
+387
+00:31:26,208 --> 00:31:28,711
+{\an8}La guerra contra la yakuza está empezando.
+
+388
+00:31:28,711 --> 00:31:32,381
+{\an8}¿De verdad los arrestaron
+por obstrucción de la labor policial?
+
+389
+00:31:32,381 --> 00:31:33,340
+{\an8}Sí.
+
+390
+00:31:34,216 --> 00:31:38,387
+{\an8}Solo se usa con manifestantes políticos.
+
+391
+00:31:38,387 --> 00:31:39,597
+{\an8}Hasta ahora.
+
+392
+00:31:39,597 --> 00:31:42,182
+{\an8}Ley vieja, uso nuevo.
+
+393
+00:31:44,184 --> 00:31:46,812
+{\an8}Y apenas empezamos.
+
+394
+00:31:47,187 --> 00:31:49,064
+{\an8}¡Por la subcomisaria Nagata!
+
+395
+00:32:01,577 --> 00:32:02,745
+{\an8}<i>¿Hola?</i>
+
+396
+00:32:02,745 --> 00:32:06,790
+{\an8}¿Cómo estás, pequeña?
+
+397
+00:32:07,499 --> 00:32:10,294
+{\an8}<i>Estoy dibujando un auto. El tuyo rojo.</i>
+
+398
+00:32:11,128 --> 00:32:14,214
+{\an8}Tendremos que hacer lugar para colgarlo.
+
+399
+00:32:15,257 --> 00:32:17,509
+{\an8}¿Le das el teléfono a mamá?
+
+400
+00:32:18,510 --> 00:32:23,599
+{\an8}<i>Me dijo que te dijera que esta noche
+está muy cansada para hablar.</i>
+
+401
+00:32:25,726 --> 00:32:26,602
+{\an8}Entonces...
+
+402
+00:32:27,519 --> 00:32:30,397
+{\an8}Por favor, dile que llamé.
+
+403
+00:32:30,397 --> 00:32:31,523
+{\an8}<i>Adiós.</i>
+
+404
+00:32:59,218 --> 00:33:00,678
+{\an8}¿Conoces esta canción?
+
+405
+00:33:01,512 --> 00:33:04,431
+{\an8}Es un clásico estadounidense.
+De la fundación del país.
+
+406
+00:33:11,647 --> 00:33:12,523
+Llegó la hora.
+
+407
+00:33:16,527 --> 00:33:19,571
+Gracias a todos los miembros de <i>Rent.</i>
+
+408
+00:33:20,364 --> 00:33:24,243
+Por favor, salúdenlos
+mientras disfrutan nuestros bocadillos.
+
+409
+00:33:25,369 --> 00:33:27,371
+{\an8}Probaré las bombas de crema.
+
+410
+00:33:27,371 --> 00:33:28,956
+{\an8}Nos vemos luego.
+
+411
+00:33:30,207 --> 00:33:31,709
+{\an8}¿Comerás bombas de crema ahora?
+
+412
+00:33:38,507 --> 00:33:41,719
+{\an8}¿Quién es la acompañante de Jake?
+
+413
+00:33:43,095 --> 00:33:44,722
+{\an8}No sé. ¿Por qué?
+
+414
+00:33:45,514 --> 00:33:47,474
+{\an8}La he visto antes.
+
+415
+00:33:48,392 --> 00:33:49,601
+{\an8}Voy adentro.
+
+416
+00:33:51,186 --> 00:33:54,940
+Lynn está en el FBI
+y solo se ocupa de crímenes federales.
+
+417
+00:33:54,940 --> 00:33:59,027
+Al menos, sus leyes reconocen el problema.
+
+418
+00:33:59,403 --> 00:34:03,198
+Las mujeres allá pueden poner órdenes
+de restricción contra sus acosadores.
+
+419
+00:34:03,198 --> 00:34:04,575
+Sí, es cierto,
+
+420
+00:34:04,575 --> 00:34:07,327
+pero podríamos ser
+más eficaces en la prevención.
+
+421
+00:34:07,327 --> 00:34:10,414
+Si quieres, puedo darte
+las estadísticas más recientes.
+
+422
+00:34:10,414 --> 00:34:12,458
+Me gustaría. ¿Hablamos el lunes?
+
+423
+00:34:12,458 --> 00:34:13,667
+Por supuesto.
+
+424
+00:34:25,596 --> 00:34:29,808
+{\an8}¿Probaste el pescado delicioso
+que viene en globos?
+
+425
+00:34:30,392 --> 00:34:32,770
+Sí. Probé el camarón.
+
+426
+00:34:33,395 --> 00:34:34,688
+Estaba delicioso.
+
+427
+00:34:35,522 --> 00:34:37,608
+Jason Aoki, de la embajada.
+
+428
+00:34:38,192 --> 00:34:39,902
+Jun Shinohara, <i>Meicho Shimbun.</i>
+
+429
+00:34:40,277 --> 00:34:41,236
+¿Periodista?
+
+430
+00:34:42,112 --> 00:34:43,197
+Me equivoqué.
+
+431
+00:34:43,197 --> 00:34:46,200
+Mis colegas y yo jugábamos a adivinar
+
+432
+00:34:46,200 --> 00:34:48,076
+qué hace alguien antes de conocerlo.
+
+433
+00:34:48,076 --> 00:34:49,161
+¿Y qué pensaban que era?
+
+434
+00:34:49,161 --> 00:34:51,121
+Uno dijo que periodista.
+
+435
+00:34:51,955 --> 00:34:54,500
+Otro, que jugador de béisbol.
+
+436
+00:34:57,127 --> 00:34:58,962
+Perdí dinero apostando a que eras modelo.
+
+437
+00:35:02,341 --> 00:35:04,510
+Debes conocer a uno de mis reporteros.
+
+438
+00:35:05,469 --> 00:35:08,555
+Jake Adelstein, ella es Lynn Oberfeld.
+
+439
+00:35:08,555 --> 00:35:10,599
+Agregada jurídica de la embajada.
+
+440
+00:35:10,599 --> 00:35:12,976
+Me encantó leer tu trabajo.
+
+441
+00:35:12,976 --> 00:35:15,979
+Hal Lieberman dijo que un estadounidense
+trabajaba en el <i>Meicho,</i>
+
+442
+00:35:15,979 --> 00:35:17,356
+y creí que era una broma.
+
+443
+00:35:17,356 --> 00:35:19,525
+Lo estamos civilizando de a poco.
+
+444
+00:35:20,484 --> 00:35:23,111
+Él es Jason, de mi oficina.
+
+445
+00:35:23,987 --> 00:35:25,489
+- Es un placer.
+- Igualmente.
+
+446
+00:35:25,489 --> 00:35:27,991
+- Ella es mi amiga, Mari.
+- ¿Periodista también?
+
+447
+00:35:28,367 --> 00:35:30,577
+No, yo soy coreógrafa. Danza moderna.
+
+448
+00:35:32,579 --> 00:35:36,124
+Disculpen, es que vi
+a un colega de la embajada coreana
+
+449
+00:35:36,124 --> 00:35:37,543
+que me ha buscado por semanas.
+
+450
+00:35:38,168 --> 00:35:40,170
+Hablaremos pronto. Disfruten la noche.
+
+451
+00:35:40,754 --> 00:35:41,505
+Nos vemos.
+
+452
+00:35:44,675 --> 00:35:47,594
+Voy a ir por un camarón.
+Me los recomendaron.
+
+453
+00:35:48,554 --> 00:35:50,138
+{\an8}Un placer conocerte.
+
+454
+00:35:50,138 --> 00:35:51,849
+{\an8}Igualmente.
+
+455
+00:35:53,475 --> 00:35:54,726
+¿Danza moderna?
+
+456
+00:35:55,102 --> 00:35:58,146
+No sabes lo talentosa que soy.
+
+457
+00:36:04,945 --> 00:36:09,199
+{\an8}Aquí puedes ver
+quién compró qué zapatillas y cuándo.
+
+458
+00:36:10,742 --> 00:36:12,035
+{\an8}Y la dirección del envío.
+
+459
+00:36:12,035 --> 00:36:13,787
+{\an8}¿Todos estos pares se vendieron en un mes?
+
+460
+00:36:16,331 --> 00:36:18,208
+{\an8}Lo hiciste bien, hermanito.
+
+461
+00:36:24,923 --> 00:36:28,302
+{\an8}Preguntaba por ti todo el tiempo.
+
+462
+00:36:29,845 --> 00:36:32,556
+{\an8}Pero mamá decía que no te podía ver.
+
+463
+00:36:33,974 --> 00:36:38,312
+{\an8}Papá no me dejaba decir tu nombre.
+
+464
+00:36:41,857 --> 00:36:45,736
+{\an8}Solo quería ser como tú.
+
+465
+00:36:52,784 --> 00:36:53,702
+{\an8}¡Policía!
+
+466
+00:36:57,706 --> 00:36:59,124
+{\an8}No te preocupes.
+
+467
+00:37:03,253 --> 00:37:04,504
+{\an8}Bienvenido.
+
+468
+00:37:08,675 --> 00:37:11,053
+{\an8}Entonces, los rumores son ciertos.
+
+469
+00:37:13,472 --> 00:37:17,392
+{\an8}Este es el hermano de los dedos mágicos.
+
+470
+00:37:18,101 --> 00:37:19,645
+{\an8}Vende cosas con eso.
+
+471
+00:37:20,395 --> 00:37:23,190
+{\an8}Kaito, él es Hayama<i>-san.</i>
+
+472
+00:37:25,692 --> 00:37:26,818
+{\an8}Dime cómo funciona.
+
+473
+00:37:27,319 --> 00:37:29,488
+{\an8}Mi hermano tiene mucho que estudiar.
+
+474
+00:37:29,488 --> 00:37:32,950
+{\an8}Seguro que tiene
+un momento para explicarme.
+
+475
+00:37:37,829 --> 00:37:41,541
+{\an8}Mi hermano y yo armamos
+una página para vender zapatillas.
+
+476
+00:37:42,125 --> 00:37:43,043
+{\an8}¿Zapatillas?
+
+477
+00:37:44,336 --> 00:37:46,046
+{\an8}¿Cuánto han ganado hasta ahora?
+
+478
+00:37:46,046 --> 00:37:47,756
+{\an8}Es difícil saberlo.
+
+479
+00:37:47,756 --> 00:37:50,550
+{\an8}Pero más de medio millón de yenes.
+
+480
+00:37:51,468 --> 00:37:52,886
+{\an8}¿Con esta caja?
+
+481
+00:37:55,263 --> 00:37:56,139
+{\an8}Mierda.
+
+482
+00:37:58,725 --> 00:37:59,768
+{\an8}¿En serio?
+
+483
+00:38:00,852 --> 00:38:04,231
+{\an8}¿Ya conociste al Oyabun, Kaito?
+
+484
+00:38:04,564 --> 00:38:05,649
+{\an8}Le caerás bien.
+
+485
+00:38:06,358 --> 00:38:07,567
+{\an8}Hermano Hayama.
+
+486
+00:38:08,568 --> 00:38:11,697
+{\an8}Kaito es estudiante.
+No es de los nuestros.
+
+487
+00:38:12,239 --> 00:38:14,282
+{\an8}Está bien.
+
+488
+00:38:14,282 --> 00:38:16,660
+{\an8}Debes respetar
+los deseos de tu hermano mayor.
+
+489
+00:38:19,871 --> 00:38:24,459
+{\an8}Pero reconozco una mina de oro
+cuando la veo.
+
+490
+00:38:34,136 --> 00:38:35,137
+Disculpa.
+
+491
+00:38:36,138 --> 00:38:37,681
+¿Eres la famosa coreógrafa?
+
+492
+00:38:39,057 --> 00:38:39,850
+Sí.
+
+493
+00:38:40,559 --> 00:38:41,852
+¿Tú coreografiaste el show?
+
+494
+00:38:42,644 --> 00:38:44,896
+Sí. ¿Te gustó?
+
+495
+00:38:45,647 --> 00:38:48,650
+Estamos en gira mundial.
+Ahora iremos a Misuri.
+
+496
+00:38:53,822 --> 00:38:54,698
+Ven conmigo.
+
+497
+00:38:57,200 --> 00:38:58,035
+Con mi familia.
+
+498
+00:39:00,162 --> 00:39:02,664
+Yo sé que llevamos juntos un mes.
+
+499
+00:39:03,707 --> 00:39:07,336
+y la idea de lo nuestro es una locura.
+
+500
+00:39:08,795 --> 00:39:12,799
+Pero me gusta pensar
+que tenemos un futuro juntos.
+
+501
+00:39:19,890 --> 00:39:20,682
+¿Qué?
+
+502
+00:39:21,808 --> 00:39:23,727
+- ¿Pudo verme?
+- ¿Quién?
+
+503
+00:39:25,312 --> 00:39:27,731
+Ese hombre. Lo he visto con Tozawa.
+
+504
+00:39:31,485 --> 00:39:32,444
+Tranquila.
+
+505
+00:39:32,861 --> 00:39:34,488
+Aquí nadie tiene nexos con Tozawa.
+
+506
+00:39:34,488 --> 00:39:35,739
+Tengo que irme.
+
+507
+00:39:38,116 --> 00:39:39,326
+Oye, cálmate.
+
+508
+00:39:40,452 --> 00:39:43,413
+No me toques. Aléjate de mí.
+
+509
+00:39:50,253 --> 00:39:52,798
+{\an8}¿Cuánto tiempo buscaste?
+
+510
+00:39:52,798 --> 00:39:54,549
+{\an8}Todo el tiempo. Sé que la dejé ahí.
+
+511
+00:39:54,549 --> 00:39:57,385
+{\an8}¿Buscaste en todos lados?
+
+512
+00:39:58,470 --> 00:39:59,679
+Te ves preocupada.
+
+513
+00:40:00,680 --> 00:40:01,473
+¿En serio?
+
+514
+00:40:02,182 --> 00:40:02,974
+Para nada.
+
+515
+00:40:04,851 --> 00:40:08,355
+¿No te preocupa mi propuesta
+de pasar tiempo juntos afuera de aquí?
+
+516
+00:40:09,356 --> 00:40:10,857
+Aún lo sigo pensando.
+
+517
+00:40:11,650 --> 00:40:13,276
+Necesito que seas paciente.
+
+518
+00:40:14,236 --> 00:40:15,737
+Tómate el tiempo que necesites.
+
+519
+00:40:16,655 --> 00:40:18,073
+¿Me disculpas un momento?
+
+520
+00:40:19,366 --> 00:40:20,158
+Claro.
+
+521
+00:40:23,829 --> 00:40:24,913
+{\an8}¿Qué pasa?
+
+522
+00:40:24,913 --> 00:40:29,167
+{\an8}Perdió la botella de Ishii<i>-san.</i>
+El Glenmorangie Grand Vintage.
+
+523
+00:40:29,167 --> 00:40:31,461
+{\an8}La puse en su lugar. No sé adónde se fue.
+
+524
+00:40:31,878 --> 00:40:34,172
+{\an8}Ese whisky no es barato.
+
+525
+00:40:35,090 --> 00:40:36,174
+{\an8}Cuesta 50 000 yenes.
+
+526
+00:40:36,883 --> 00:40:39,094
+{\an8}No puedo comprar otra botella.
+
+527
+00:40:39,094 --> 00:40:40,220
+{\an8}Lo siento.
+
+528
+00:40:40,220 --> 00:40:41,054
+{\an8}Oye, mama.
+
+529
+00:40:42,139 --> 00:40:43,306
+Carajo.
+
+530
+00:40:44,182 --> 00:40:45,267
+- ¿Sam?
+- Sí.
+
+531
+00:40:45,267 --> 00:40:47,435
+Quédate con él. Yo iré con ellos, ¿sí?
+
+532
+00:40:47,435 --> 00:40:48,353
+Bien.
+
+533
+00:40:48,353 --> 00:40:49,521
+- Divide y vencerás.
+- Gracias.
+
+534
+00:40:50,021 --> 00:40:51,148
+{\an8}Busquémosla.
+
+535
+00:40:51,148 --> 00:40:52,107
+{\an8}¿La botella de quién?
+
+536
+00:40:52,107 --> 00:40:54,192
+{\an8}- De Ishii<i>-san.</i>
+- Sí, la botella de Ishii<i>-san.</i>
+
+537
+00:40:54,192 --> 00:40:55,861
+{\an8}¿Qué te pasa, Kenji?
+
+538
+00:41:00,031 --> 00:41:02,617
+{\an8}Creí que querría celebrar, detective.
+
+539
+00:41:03,285 --> 00:41:04,786
+{\an8}¿Por qué aún no se fue a casa?
+
+540
+00:41:05,537 --> 00:41:08,582
+{\an8}Podría preguntar lo mismo.
+
+541
+00:41:17,007 --> 00:41:19,926
+{\an8}A los fiscales les gustaron los arrestos.
+
+542
+00:41:21,094 --> 00:41:24,222
+{\an8}Con los documentos incautados,
+podremos acusarlos de extorsión.
+
+543
+00:41:25,015 --> 00:41:28,310
+{\an8}Uno delató al Oyabun.
+
+544
+00:41:29,311 --> 00:41:31,146
+{\an8}Él y sus hombres irán presos
+por mucho tiempo.
+
+545
+00:41:35,275 --> 00:41:37,068
+{\an8}Por los nuevos modos.
+
+546
+00:41:48,038 --> 00:41:49,581
+{\an8}¿No quiere celebrar?
+
+547
+00:41:51,833 --> 00:41:55,295
+{\an8}Nada es gratis.
+
+548
+00:41:59,925 --> 00:42:03,303
+{\an8}Hagamos que el costo valga la pena.
+
+549
+00:42:28,578 --> 00:42:29,579
+{\an8}¿Quién es?
+
+550
+00:42:30,121 --> 00:42:32,666
+{\an8}Chika, la hermana de Tats.
+
+551
+00:42:36,294 --> 00:42:37,629
+{\an8}Espera. Ya voy.
+
+552
+00:42:41,508 --> 00:42:44,636
+{\an8}- ¡Nos lo prometiste!
+- Cálmate.
+
+553
+00:42:44,636 --> 00:42:46,179
+{\an8}- ¡Se lo llevaron!
+- ¿Qué?
+
+554
+00:42:46,179 --> 00:42:49,766
+{\an8}Arrestaron a mi hermano.
+¡Por tu estúpido periódico!
+
+555
+00:42:49,766 --> 00:42:50,767
+{\an8}¿Lo arrestaron?
+
+556
+00:42:52,686 --> 00:42:54,729
+{\an8}Espera. No...
+No le dije sus nombres a nadie.
+
+557
+00:42:54,729 --> 00:42:57,065
+{\an8}¡Ni siquiera publicamos las fotos!
+
+558
+00:42:57,065 --> 00:43:01,361
+{\an8}Pero, por tu artículo,
+¡la policía redobló esfuerzos!
+
+559
+00:43:05,073 --> 00:43:07,701
+{\an8}¿Qué te pasó en la cara y el pelo?
+
+560
+00:43:09,035 --> 00:43:12,747
+{\an8}No usé sus nombres en ningún lado.
+No se los dije a nadie.
+
+561
+00:43:12,747 --> 00:43:14,708
+{\an8}Ahí hay asesinos.
+
+562
+00:43:17,586 --> 00:43:20,088
+{\an8}No importa lo que hayas hecho.
+
+563
+00:43:20,797 --> 00:43:22,924
+{\an8}Nos ponen a todos en el mismo lugar.
+
+564
+00:43:25,093 --> 00:43:26,553
+{\an8}Pensaré en algo.
+
+565
+00:43:29,973 --> 00:43:31,141
+{\an8}Sabes...
+
+566
+00:43:33,685 --> 00:43:38,315
+{\an8}Robé una moto e iré a prisión.
+
+567
+00:43:40,233 --> 00:43:42,319
+{\an8}Tú me ayudaste. ¿Por qué no estás preso?
+
+568
+00:43:49,326 --> 00:43:50,660
+{\an8}Debes cuidar a mi hermana.
+
+569
+00:43:52,746 --> 00:43:54,789
+{\an8}No tiene a nadie.
+
+570
+00:44:00,587 --> 00:44:03,381
+Si el periódico habla por él,
+podría ir a un reformatorio.
+
+571
+00:44:03,381 --> 00:44:05,800
+No importa que aún sea menor.
+
+572
+00:44:05,800 --> 00:44:09,971
+Lo arrestaron mientras robaba una moto,
+y golpeó a un policía.
+
+573
+00:44:10,889 --> 00:44:13,183
+El reformatorio no es una opción.
+
+574
+00:44:13,183 --> 00:44:16,644
+Maruyama<i>-san,</i> él lleva
+en una celda un solo día.
+
+575
+00:44:16,644 --> 00:44:18,605
+Los otros prisioneros ya lo golpearon.
+
+576
+00:44:18,605 --> 00:44:21,191
+Y será peor cuando lo transfieran.
+
+577
+00:44:22,067 --> 00:44:26,112
+Las prisiones juveniles pueden ser
+mucho peor que las de adultos.
+
+578
+00:44:27,989 --> 00:44:29,115
+Por Dios.
+
+579
+00:44:41,419 --> 00:44:42,170
+Oye.
+
+580
+00:44:45,090 --> 00:44:49,010
+{\an8}Hayama<i>-san.</i> ¿En qué puedo ayudarlo?
+
+581
+00:44:49,386 --> 00:44:53,473
+{\an8}No seas tonto. Eres el genio
+que merece una recompensa.
+
+582
+00:44:54,265 --> 00:44:55,141
+{\an8}¿Una recompensa?
+
+583
+00:45:01,147 --> 00:45:03,358
+{\an8}Ven. Vamos a dar una vuelta.
+
+584
+00:45:07,904 --> 00:45:09,823
+{\an8}Esta noche será especial.
+
+585
+00:45:11,032 --> 00:45:12,325
+{\an8}Nunca la olvidarás.
+
+586
+00:45:17,705 --> 00:45:19,040
+{\an8}Hola. Ha pasado mucho tiempo.
+
+587
+00:45:23,086 --> 00:45:24,129
+{\an8}¿Vamos por un trago?
+
+588
+00:45:24,129 --> 00:45:25,255
+Estoy ocupado, Meicho<i>-san.</i>
+
+589
+00:45:26,881 --> 00:45:27,757
+Escucha.
+
+590
+00:45:29,259 --> 00:45:30,760
+La última vez que te vi en el Onyx...
+
+591
+00:45:33,179 --> 00:45:33,972
+Me pasé de la raya.
+
+592
+00:45:35,140 --> 00:45:38,101
+Querías ayudarme y yo no te hice caso.
+
+593
+00:45:40,061 --> 00:45:41,104
+{\an8}Por favor,
+acepta mi disculpa.
+
+594
+00:45:45,692 --> 00:45:46,901
+Supe que te golpearon.
+
+595
+00:45:48,319 --> 00:45:49,070
+Sí.
+
+596
+00:45:50,363 --> 00:45:51,406
+Supe que te apuñalaron.
+
+597
+00:45:52,866 --> 00:45:53,783
+Sí.
+
+598
+00:45:59,205 --> 00:46:00,123
+{\an8}¿Tienes hambre?
+
+599
+00:46:00,623 --> 00:46:01,541
+{\an8}Estoy famélico.
+
+600
+00:46:01,875 --> 00:46:03,293
+{\an8}Vamos. Conozco un lugar.
+
+601
+00:46:05,086 --> 00:46:06,754
+{\an8}Quiero pedirte algo.
+
+602
+00:46:06,754 --> 00:46:08,006
+{\an8}Qué sorpresa.
+
+603
+00:46:15,013 --> 00:46:18,016
+{\an8}Es hora de que pruebes la ciudad.
+
+604
+00:46:21,686 --> 00:46:22,687
+{\an8}Déjame preguntarte algo.
+
+605
+00:46:22,687 --> 00:46:25,523
+{\an8}En la escuela, ¿alguna vez te gustó
+una chica, pero no te hizo caso?
+
+606
+00:46:25,523 --> 00:46:26,608
+{\an8}Algo así.
+
+607
+00:46:28,485 --> 00:46:29,861
+{\an8}¿Qué escuela?
+
+608
+00:46:29,861 --> 00:46:31,362
+{\an8}Pasen, por favor.
+
+609
+00:46:31,362 --> 00:46:33,364
+{\an8}La secundaria Narishima Gakuen.
+
+610
+00:46:37,076 --> 00:46:41,581
+{\an8}Secundaria Narishima Gakuen
+para este joven trabajador.
+
+611
+00:46:41,581 --> 00:46:43,291
+{\an8}Comprendo, señor.
+
+612
+00:46:43,291 --> 00:46:45,376
+{\an8}- Lo mismo para mí.
+- Claro.
+
+613
+00:46:53,593 --> 00:46:55,136
+¿A qué prisión lo van a llevar?
+
+614
+00:46:55,678 --> 00:46:57,764
+Probablemente, a Asaka. En Saitama.
+
+615
+00:46:58,681 --> 00:47:02,227
+A los guardias les gusta
+bañarlos con manguera a presión.
+
+616
+00:47:03,353 --> 00:47:04,187
+Un chico...
+
+617
+00:47:06,940 --> 00:47:09,692
+{\an8}Le metieron la manguera en el trasero.
+
+618
+00:47:09,692 --> 00:47:12,237
+{\an8}Le tiraron agua con tanta fuerza
+
+619
+00:47:13,029 --> 00:47:15,240
+{\an8}que le rompieron los intestinos.
+
+620
+00:47:19,035 --> 00:47:21,955
+{\an8}Pareces saber de prisiones juveniles.
+
+621
+00:47:25,375 --> 00:47:27,752
+{\an8}¿Puedes ayudar a este chico?
+
+622
+00:47:28,670 --> 00:47:33,341
+{\an8}¿Conoces a alguien que pueda cuidarlo?
+
+623
+00:47:34,968 --> 00:47:36,511
+{\an8}¿Me pides un favor, Meicho<i>-san?</i>
+
+624
+00:47:39,556 --> 00:47:40,306
+{\an8}Sí.
+
+625
+00:47:42,475 --> 00:47:43,560
+Yo me encargaré.
+
+626
+00:47:45,603 --> 00:47:46,938
+¿Te encargarás de...?
+
+627
+00:47:47,355 --> 00:47:49,440
+De que sea protegido adentro.
+
+628
+00:47:50,108 --> 00:47:52,402
+Y será de los nuestros cuando salga.
+
+629
+00:47:55,196 --> 00:47:56,406
+{\an8}¿Algún problema con eso?
+
+630
+00:48:02,412 --> 00:48:04,330
+{\an8}No. Gracias.
+
+631
+00:48:09,294 --> 00:48:10,420
+Y tú pagarás la cena.
+
+632
+00:48:12,380 --> 00:48:13,923
+- ¿En serio?
+- Sí.
+
+633
+00:48:14,424 --> 00:48:16,593
+Tal vez no debiste pedir ese corte.
+
+634
+00:48:50,084 --> 00:48:52,795
+{\an8}¿Por qué siguen aquí?
+
+635
+00:48:54,881 --> 00:48:56,507
+{\an8}¿No iban a salir de fiesta?
+
+636
+00:48:56,841 --> 00:48:59,427
+{\an8}Claro. Aquí. Contigo.
+
+637
+00:48:59,427 --> 00:49:00,762
+{\an8}¿En serio?
+
+638
+00:49:00,762 --> 00:49:03,806
+{\an8}Siéntate. Minami trajo comida.
+
+639
+00:49:05,892 --> 00:49:07,644
+{\an8}Tu favorito, Samantha<i>-san.</i>
+
+640
+00:49:07,644 --> 00:49:11,189
+{\an8}Gracias, Kenji. Lamento lo que pasó antes.
+
+641
+00:49:11,189 --> 00:49:12,690
+{\an8}- No hay problema.
+- Lo siento mucho.
+
+642
+00:49:12,690 --> 00:49:14,150
+{\an8}No debían hacer todo esto.
+
+643
+00:49:14,150 --> 00:49:16,694
+{\an8}Sí. Mama<i>-san</i> se esfuerza demasiado.
+
+644
+00:49:16,694 --> 00:49:17,695
+{\an8}Solo es mi trabajo.
+
+645
+00:49:18,780 --> 00:49:21,240
+{\an8}El mejor trabajo que haya tenido.
+
+646
+00:49:23,117 --> 00:49:28,831
+{\an8}Es el único club en el que haya trabajado
+en el que me siento segura. Gracias a ti.
+
+647
+00:49:31,834 --> 00:49:38,091
+{\an8}Por mama<i>-san.</i> Que debería
+beber más y preocuparse menos.
+
+648
+00:49:38,091 --> 00:49:40,593
+{\an8}¡Por mama<i>-san!</i>
+
+649
+00:50:02,115 --> 00:50:03,199
+{\an8}¿Adónde vamos?
+
+650
+00:50:12,458 --> 00:50:17,213
+{\an8}Sato<i>-san</i> me explicó
+lo que quiere que consiga.
+
+651
+00:50:18,631 --> 00:50:20,591
+{\an8}¿Cuál es tu respuesta?
+
+652
+00:50:20,591 --> 00:50:23,594
+{\an8}El arquitecto confía en mí.
+
+653
+00:50:23,594 --> 00:50:26,139
+{\an8}Me invitó a su casa.
+
+654
+00:50:27,014 --> 00:50:30,435
+{\an8}Estoy en posición de ayudar.
+
+655
+00:50:31,477 --> 00:50:34,522
+{\an8}Entonces, lo harás.
+
+656
+00:50:34,522 --> 00:50:36,733
+{\an8}Sé el valor de esta información.
+
+657
+00:50:38,067 --> 00:50:40,153
+{\an8}Si le hago este favor,
+pido un favor a cambio.
+
+658
+00:50:48,119 --> 00:50:50,747
+{\an8}¿Cuál?
+
+659
+00:50:52,540 --> 00:50:54,417
+{\an8}Ser la dueña única de mi club.
+
+660
+00:50:55,668 --> 00:51:02,550
+{\an8}Y su palabra de que nadie de Chihara-kai
+volverá a entrar.
+
+661
+00:51:08,765 --> 00:51:09,682
+{\an8}De acuerdo.
+
+662
+00:51:10,933 --> 00:51:14,145
+{\an8}Pero igual me pagarás
+
+663
+00:51:14,145 --> 00:51:17,565
+{\an8}el 25 % de tus ganancias
+los próximos seis meses.
+
+664
+00:51:18,357 --> 00:51:20,985
+{\an8}Sería un honor pagar eso al Oyabun
+los próximos dos meses.
+
+665
+00:51:22,028 --> 00:51:25,865
+{\an8}¿Bromeas?
+
+666
+00:51:30,745 --> 00:51:31,871
+{\an8}Está bien.
+
+667
+00:51:33,122 --> 00:51:33,873
+{\an8}Tres meses.
+
+668
+00:51:34,707 --> 00:51:35,750
+{\an8}De acuerdo.
+
+669
+00:51:42,465 --> 00:51:46,135
+{\an8}Eres buena en esto.
+
+670
+00:51:47,929 --> 00:51:50,056
+{\an8}Te irá bien en este mundo.
+
+671
+00:51:52,308 --> 00:51:53,226
+{\an8}Buena suerte.
+
+672
+00:52:34,392 --> 00:52:37,019
+{\an8}<i>Por favor, deje un mensaje después...</i>
+
+673
+00:53:48,507 --> 00:53:50,092
+Tokyo Vice es un programa de ficción
+inspirado en hechos reales.
+
+674
+00:53:50,092 --> 00:53:51,677
+Algunos personajes, incidentes y elementos
+fueron ficcionalizados
+
+675
+00:53:51,677 --> 00:53:52,970
+con fines dramáticos, y su intención no es
+
+676
+00:53:52,970 --> 00:53:55,222
+caracterizar a una persona, una historia,
+una entidad o un incidente reales.
+
+677
+00:54:04,398 --> 00:54:06,317
+Subtítulos: CL
+

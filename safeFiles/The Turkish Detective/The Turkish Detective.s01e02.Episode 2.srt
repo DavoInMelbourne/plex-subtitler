@@ -1,0 +1,2322 @@
+1
+00:00:07,880 --> 00:00:11,080
+<font color="#ffffff">CATS MEOW</font>
+
+2
+00:00:16,280 --> 00:00:17,920
+<font color="#ffffff">MEOWING CONTINUES</font>
+
+3
+00:00:37,600 --> 00:00:38,920
+<font color="#ffffff">Good morning.</font>
+
+4
+00:00:38,920 --> 00:00:42,280
+<font color="#ffffff">I just need a little refreshment.</font>
+
+5
+00:00:42,280 --> 00:00:44,440
+<font color="#ffffff">It was a long night.</font>
+
+6
+00:00:48,240 --> 00:00:50,800
+<font color="#ffff00">I was thinking I could join</font>
+<font color="#ffff00">Kemal's interview.</font>
+
+7
+00:00:50,800 --> 00:00:55,520
+<font color="#ffffff">I'm afraid to say I don't think</font>
+<font color="#ffffff">your presence would be helpful.</font>
+
+8
+00:00:55,520 --> 00:00:58,400
+<font color="#ffff00">Why not?</font><font color="#ffffff"> Well, you're foreign.</font>
+
+9
+00:00:58,400 --> 00:00:59,880
+<font color="#ffffff">A little aggressive.</font>
+
+10
+00:00:59,880 --> 00:01:04,120
+<font color="#ffffff">And, of course, you did chase</font>
+<font color="#ffffff">him halfway across Istanbul.</font>
+
+11
+00:01:05,480 --> 00:01:07,600
+<font color="#ffff00">You're the boss.</font><font color="#ffffff"> Yep.</font>
+
+12
+00:01:09,040 --> 00:01:10,560
+<font color="#ffffff">I am, aren't I?</font>
+
+13
+00:01:57,760 --> 00:02:00,280
+<font color="#00ffff">Can you confirm that you are</font>
+<font color="#00ffff">Kemal Haddad,</font>
+
+14
+00:02:00,280 --> 00:02:04,040
+<font color="#00ffff">born in Beirut, Lebanon</font>
+<font color="#00ffff">on 18 August, 2003,</font>
+
+15
+00:02:04,040 --> 00:02:06,480
+<font color="#00ffff">currently residing at</font>
+<font color="#00ffff">the Jevise hostel?</font>
+
+16
+00:02:07,920 --> 00:02:09,520
+<font color="#00ffff">Did you know Gozde Serene?</font>
+
+17
+00:02:12,000 --> 00:02:14,120
+<font color="#00ffff">What was the nature of</font>
+<font color="#00ffff">your relationship?</font>
+
+18
+00:02:15,880 --> 00:02:17,000
+<font color="#00ffff">OK.</font>
+
+19
+00:02:17,000 --> 00:02:20,360
+<font color="#00ffff">Can you explain</font>
+<font color="#00ffff">the large amounts of cocaine</font>
+
+20
+00:02:20,360 --> 00:02:23,680
+<font color="#00ffff">that my colleagues found</font>
+<font color="#00ffff">in your room?</font>
+
+21
+00:02:23,680 --> 00:02:25,240
+<font color="#ffffff">Did you kill her?</font>
+
+22
+00:02:29,360 --> 00:02:31,160
+<font color="#00ffff">Why did you send...</font>
+
+23
+00:02:33,240 --> 00:02:34,680
+<font color="#00ffff">..this text?</font>
+
+24
+00:02:36,440 --> 00:02:37,520
+<font color="#00ff00">No.</font>
+
+25
+00:02:38,680 --> 00:02:39,960
+<font color="#00ff00">No, I didn't send that.</font>
+
+26
+00:02:39,960 --> 00:02:42,240
+<font color="#00ff00">She texted me, told me to meet her.</font>
+
+27
+00:02:42,240 --> 00:02:44,600
+<font color="#00ffff">Can you prove that?</font>
+
+28
+00:02:44,600 --> 00:02:46,600
+<font color="#00ff00">I lost my phone last night.</font>
+
+29
+00:02:50,600 --> 00:02:54,120
+<font color="#ffffff">Why would you meet at a graveyard?</font>
+
+30
+00:02:54,120 --> 00:02:56,680
+<font color="#00ff00">She thought it was safe.</font>
+
+31
+00:02:56,680 --> 00:02:58,360
+<font color="#00ff00">No-one would see us.</font>
+
+32
+00:03:05,600 --> 00:03:07,040
+<font color="#ffff00">Suleyman?</font>
+
+33
+00:03:09,080 --> 00:03:10,400
+<font color="#ffff00">Suleyman?</font>
+
+34
+00:03:12,560 --> 00:03:15,160
+<font color="#ffff00">Why haven't you all left yet?</font>
+
+35
+00:03:15,160 --> 00:03:16,600
+<font color="#ffff00">Selma didn't tell you?</font>
+
+36
+00:03:16,600 --> 00:03:18,560
+<font color="#ffff00">About Gozde's fiance?</font>
+
+37
+00:03:18,560 --> 00:03:19,800
+<font color="#ffff00">Uh-oh.</font>
+
+38
+00:03:50,680 --> 00:03:52,120
+<font color="#ffffff">Oh, Selma.</font>
+
+39
+00:03:52,120 --> 00:03:53,680
+<font color="#ffff00">This is our case.</font>
+
+40
+00:03:53,680 --> 00:03:55,280
+<font color="#ffff00">Has to be.</font>
+
+41
+00:03:55,280 --> 00:03:57,840
+<font color="#00ffff">Not until she says it is.</font>
+
+42
+00:03:57,840 --> 00:04:00,800
+<font color="#ffffff">Let's have a look around and...</font>
+
+43
+00:04:00,800 --> 00:04:03,440
+<font color="#ffffff">..avoid the Eye of Sauron,</font>
+<font color="#ffffff">if we can.</font>
+
+44
+00:04:22,560 --> 00:04:26,600
+<font color="#ffff00">Well, the security</font>
+<font color="#ffff00">and encryption's first class.</font>
+
+45
+00:04:26,600 --> 00:04:30,240
+<font color="#ffff00">We're not getting into his CCTV</font>
+<font color="#ffff00">or data any time soon.</font>
+
+46
+00:04:30,240 --> 00:04:31,920
+<font color="#ffffff">That's a shame.</font>
+
+47
+00:04:31,920 --> 00:04:34,520
+<font color="#ffffff">Would be lovely to see what</font>
+<font color="#ffffff">those cameras picked up.</font>
+
+48
+00:04:35,720 --> 00:04:37,200
+<font color="#ffffff">Nevertheless...</font>
+
+49
+00:04:39,480 --> 00:04:41,320
+<font color="#ffffff">Coast is clear. Shall we?</font>
+
+50
+00:04:43,800 --> 00:04:45,640
+<font color="#ffffff">CATS MEOW ON PHONE</font>
+<font color="#ffffff">HE CHUCKLES</font>
+
+51
+00:04:45,640 --> 00:04:47,360
+<font color="#ffffff">Sir.</font>
+
+52
+00:04:47,360 --> 00:04:49,560
+<font color="#ffffff">Morning. How's it going?</font>
+
+53
+00:04:49,560 --> 00:04:52,280
+<font color="#00ffff">Ikmen. Detective Suleyman.</font>
+
+54
+00:04:52,280 --> 00:04:53,520
+<font color="#ffffff">There you go.</font>
+
+55
+00:04:55,040 --> 00:04:58,760
+<font color="#ffffff">So, Butcher, who has Selma deemed</font>
+<font color="#ffffff">worthy of the case?</font>
+
+56
+00:05:00,160 --> 00:05:02,040
+<font color="#00ffff">Inspector Jan is on his way.</font>
+
+57
+00:05:02,040 --> 00:05:05,480
+<font color="#ffffff">Excellent. A very good man,</font>
+<font color="#ffffff">very good indeed.</font>
+
+58
+00:05:05,480 --> 00:05:07,240
+<font color="#ffffff">Very good. Wonderful man.</font>
+
+59
+00:05:07,240 --> 00:05:11,480
+<font color="#ffffff">But we're here to assist in</font>
+<font color="#ffffff">any way we possibly can.</font>
+
+60
+00:05:11,480 --> 00:05:12,960
+<font color="#ffffff">I'm sure you don't mind.</font><font color="#00ffff"> Huh?</font>
+
+61
+00:05:12,960 --> 00:05:15,280
+<font color="#ffffff">Many hands make light work,</font>
+<font color="#ffffff">of course.</font>
+
+62
+00:05:16,800 --> 00:05:18,160
+<font color="#ffffff">Yeah.</font>
+
+63
+00:05:33,360 --> 00:05:35,200
+<font color="#ffffff">Hell of a struggle, eh?</font>
+
+64
+00:05:47,920 --> 00:05:51,040
+<font color="#ffff00">There's blood and hair on this.</font>
+<font color="#ffff00">Let's check if it's Mesut's.</font>
+
+65
+00:05:51,040 --> 00:05:52,400
+<font color="#ffffff">Of course, you know this.</font>
+
+66
+00:05:52,400 --> 00:05:54,480
+<font color="#ffffff">Forensics won't be easy.</font>
+
+67
+00:05:54,480 --> 00:05:56,160
+<font color="#ffffff">Mesut's party last night.</font>
+
+68
+00:05:56,160 --> 00:05:58,560
+<font color="#ffffff">A lot of handshaking, back-slapping.</font>
+
+69
+00:05:58,560 --> 00:06:00,920
+<font color="#ffffff">Plus, a night spent in</font>
+<font color="#ffffff">the pool's chlorine.</font>
+
+70
+00:06:00,920 --> 00:06:03,080
+<font color="#ffffff">Difficult. Difficult.</font>
+
+71
+00:06:15,720 --> 00:06:18,920
+<font color="#ffffff">And, even though we know</font>
+<font color="#ffffff">the cause of death...</font>
+
+72
+00:06:18,920 --> 00:06:22,800
+<font color="#ffffff">..whoever strangled Mesut</font>
+<font color="#ffffff">covered their tracks well.</font>
+
+73
+00:06:22,800 --> 00:06:24,800
+<font color="#ffffff">I don't envy Inspector Jan.</font>
+
+74
+00:06:24,800 --> 00:06:26,840
+<font color="#ffffff">Difficult, difficult,</font>
+<font color="#ffffff">very difficult.</font>
+
+75
+00:06:26,840 --> 00:06:29,560
+<font color="#00ff00">Boss?</font><font color="#00ffff"> Ikmen!</font>
+
+76
+00:06:29,560 --> 00:06:31,680
+<font color="#ffffff">Ah, yeah.</font>
+
+77
+00:06:31,680 --> 00:06:34,120
+<font color="#00ffff">This isn't your crime scene.</font>
+
+78
+00:06:34,120 --> 00:06:36,560
+<font color="#00ffff">You and your team need to leave.</font>
+
+79
+00:06:36,560 --> 00:06:40,760
+<font color="#ffffff">Well, respectfully,</font>
+<font color="#ffffff">I feel there's a certain, erm,</font>
+
+80
+00:06:40,760 --> 00:06:44,000
+<font color="#ffffff">link or two, faint resonance</font>
+<font color="#ffffff">with the Gozde Serene murder,</font>
+
+81
+00:06:44,000 --> 00:06:46,920
+<font color="#ffffff">wouldn't you say?</font>
+<font color="#00ffff">Yes, you might be right.</font>
+
+82
+00:06:46,920 --> 00:06:50,480
+<font color="#00ffff">However, right now, I need you</font>
+<font color="#00ffff">to focus on Gozde's murder.</font>
+
+83
+00:06:50,480 --> 00:06:52,800
+<font color="#00ffff">Inspector Jan will lead</font>
+<font color="#00ffff">this investigation.</font>
+
+84
+00:07:11,240 --> 00:07:13,480
+<font color="#00ffff">Well...</font>
+
+85
+00:07:13,480 --> 00:07:14,680
+<font color="#00ffff">..all right.</font>
+
+86
+00:07:14,680 --> 00:07:19,480
+<font color="#00ffff">By the way, the Serenes are asking</font>
+<font color="#00ffff">for Gozde's body back - for burial.</font>
+
+87
+00:07:19,480 --> 00:07:23,160
+<font color="#00ffff">And I've had 50 phone calls</font>
+<font color="#00ffff">about Mesut just this morning.</font>
+
+88
+00:07:23,160 --> 00:07:25,920
+<font color="#00ffff">So, please, clean this all up.</font>
+
+89
+00:07:25,920 --> 00:07:27,480
+<font color="#00ffff">Quickly and quietly.</font>
+
+90
+00:07:27,480 --> 00:07:29,240
+<font color="#ffffff">Certainly.</font>
+
+91
+00:07:29,240 --> 00:07:30,680
+<font color="#00ffff">Thank you.</font>
+
+92
+00:07:30,680 --> 00:07:32,400
+<font color="#ffffff">Thank you. Ahem.</font>
+
+93
+00:07:34,360 --> 00:07:38,760
+<font color="#ffffff">Probably, you should tell Inspector</font>
+<font color="#ffffff">Jan he's no longer required.</font>
+
+94
+00:07:44,360 --> 00:07:46,240
+<font color="#00ff00">Kemal's Forensics are back.</font>
+
+95
+00:07:46,240 --> 00:07:49,560
+<font color="#00ff00">They found traces of Gozde's blood</font>
+<font color="#00ff00">under his fingernails.</font>
+
+96
+00:07:51,720 --> 00:07:55,040
+<font color="#ffff00">The kid needs to talk.</font>
+<font color="#ffffff">You suspect he's guilty?</font>
+
+97
+00:07:55,040 --> 00:07:57,800
+<font color="#ffff00">Definitely doesn't look good.</font>
+<font color="#ffffff">Yeah, no, it doesn't.</font>
+
+98
+00:07:57,800 --> 00:08:00,760
+<font color="#ffffff">Well, regardless,</font>
+<font color="#ffffff">we need a new strategy with Kemal</font>
+
+99
+00:08:00,760 --> 00:08:02,800
+<font color="#ffffff">if you want him to open up.</font>
+
+100
+00:08:02,800 --> 00:08:04,400
+<font color="#ffff00">"We?"</font><font color="#ffffff"> Yeah, "we".</font>
+
+101
+00:08:04,400 --> 00:08:05,840
+<font color="#ffffff">Good work back there.</font>
+
+102
+00:08:11,600 --> 00:08:14,320
+<font color="#ffff00">What are we doing here?</font>
+<font color="#ffffff">Beginning of the new strategy.</font>
+
+103
+00:08:25,560 --> 00:08:27,280
+<font color="#ffff00">Hello.</font><font color="#00ffff"> Oh, hi.</font>
+
+104
+00:08:40,120 --> 00:08:41,400
+<font color="#00ffff">Cheechek.</font>
+
+105
+00:08:55,120 --> 00:08:56,520
+<font color="#ffffff">Let's go.</font>
+
+106
+00:08:58,480 --> 00:09:00,640
+<font color="#ffffff">Thank you.</font>
+
+107
+00:09:00,640 --> 00:09:03,280
+<font color="#ffffff">I believe you've met</font>
+<font color="#ffffff">my colleague, Suleyman.</font>
+
+108
+00:09:04,760 --> 00:09:06,080
+<font color="#ffffff">You must be hungry.</font>
+
+109
+00:09:12,360 --> 00:09:15,080
+<font color="#ffffff">That's the cake from my</font>
+<font color="#ffffff">wife's birthday.</font>
+
+110
+00:09:17,640 --> 00:09:18,800
+<font color="#ffffff">Ahh.</font>
+
+111
+00:09:20,600 --> 00:09:22,680
+<font color="#ffffff">How's that? Ah!</font>
+
+112
+00:09:26,960 --> 00:09:28,400
+<font color="#ffffff">Please.</font>
+
+113
+00:09:32,000 --> 00:09:34,280
+<font color="#ffffff">Take your time.</font>
+<font color="#ffffff">We're not in a hurry.</font>
+
+114
+00:09:37,640 --> 00:09:39,520
+<font color="#ffff00">Why's Gozde's blood on your skin?</font>
+
+115
+00:09:43,000 --> 00:09:47,360
+<font color="#ffffff">Kemal, we have an</font>
+<font color="#ffffff">incriminating message from you</font>
+
+116
+00:09:47,360 --> 00:09:49,600
+<font color="#ffffff">on Gozde's telephone.</font>
+
+117
+00:09:49,600 --> 00:09:52,400
+<font color="#ffffff">Forensic evidence, the cocaine...</font>
+
+118
+00:09:53,720 --> 00:09:56,320
+<font color="#ffffff">I understand you've had</font>
+<font color="#ffffff">a difficult life,</font>
+
+119
+00:09:56,320 --> 00:09:59,520
+<font color="#ffffff">and your instinct tells you</font>
+<font color="#ffffff">to trust no-one.</font>
+
+120
+00:09:59,520 --> 00:10:00,560
+<font color="#ffffff">Yeah?</font>
+
+121
+00:10:07,200 --> 00:10:09,920
+<font color="#ffffff">Now, this is my passport...</font>
+
+122
+00:10:10,840 --> 00:10:12,720
+<font color="#ffffff">..my government ID...</font>
+
+123
+00:10:12,720 --> 00:10:17,240
+<font color="#ffffff">..the driving licence,</font>
+<font color="#ffffff">and my address.</font>
+
+124
+00:10:17,240 --> 00:10:19,720
+<font color="#ffffff">My mother's maiden name was Yavuz.</font>
+
+125
+00:10:19,720 --> 00:10:23,960
+<font color="#ffffff">My first pet was</font>
+<font color="#ffffff">a tabby cat called Bonchuk.</font>
+
+126
+00:10:23,960 --> 00:10:27,400
+<font color="#ffffff">So, you're good with computers, no?</font>
+
+127
+00:10:28,720 --> 00:10:33,720
+<font color="#ffffff">Now, with that information, you can</font>
+<font color="#ffffff">dismantle my life completely.</font>
+
+128
+00:10:33,720 --> 00:10:35,000
+<font color="#ffffff">True?</font>
+
+129
+00:10:35,000 --> 00:10:39,200
+<font color="#ffffff">Now, if, at any time,</font>
+<font color="#ffffff">you feel that I let you down,</font>
+
+130
+00:10:39,200 --> 00:10:42,120
+<font color="#ffffff">you have my sincere permission</font>
+<font color="#ffffff">to do that.</font>
+
+131
+00:10:42,120 --> 00:10:45,040
+<font color="#ffffff">Now, tell me how you met Gozde.</font>
+
+132
+00:10:49,520 --> 00:10:51,520
+<font color="#00ff00">I've never settled here.</font>
+
+133
+00:10:52,560 --> 00:10:54,400
+<font color="#00ff00">I was happy online.</font>
+
+134
+00:10:55,400 --> 00:10:59,000
+<font color="#00ff00">I had friends.</font>
+<font color="#00ff00">I was good at something.</font>
+
+135
+00:10:59,000 --> 00:11:00,520
+<font color="#00ff00">I started exploring.</font>
+
+136
+00:11:00,520 --> 00:11:02,760
+<font color="#ffffff">Darker corners of the internet.</font>
+
+137
+00:11:02,760 --> 00:11:06,520
+<font color="#00ff00">Yes, but just for fun.</font>
+
+138
+00:11:06,520 --> 00:11:08,920
+<font color="#00ff00">Then I met Gozde's brother.</font>
+
+139
+00:11:08,920 --> 00:11:10,840
+<font color="#ffff00">He got you a job with Mesut.</font>
+
+140
+00:11:10,840 --> 00:11:14,520
+<font color="#00ff00">I was a waiter at these</font>
+<font color="#00ff00">private parties he threw.</font>
+
+141
+00:11:16,040 --> 00:11:18,960
+<font color="#00ff00">A lot of rich guys, young women...</font>
+
+142
+00:11:18,960 --> 00:11:21,160
+<font color="#00ff00">..alcohol, drugs.</font>
+
+143
+00:11:21,160 --> 00:11:22,600
+<font color="#00ff00">And Gozde.</font>
+
+144
+00:11:23,960 --> 00:11:26,360
+<font color="#00ff00">So I found her TikTok channel.</font>
+
+145
+00:11:26,360 --> 00:11:28,800
+<font color="#00ff00">And, one night,</font>
+<font color="#00ff00">I sneaked some drinks</font>
+
+146
+00:11:28,800 --> 00:11:32,000
+<font color="#00ff00">and went up to her</font>
+<font color="#00ff00">and offered to help her.</font>
+
+147
+00:11:32,000 --> 00:11:33,960
+<font color="#00ff00">That was it.</font>
+
+148
+00:11:33,960 --> 00:11:36,320
+<font color="#00ff00">I had never met anyone like her.</font>
+
+149
+00:11:38,120 --> 00:11:43,240
+<font color="#00ff00">She was...the kind of girl that made</font>
+<font color="#00ff00">anything seem possible, you know?</font>
+
+150
+00:11:44,320 --> 00:11:47,160
+<font color="#ffff00">Why did you meet her in the</font>
+<font color="#ffff00">graveyard that night?</font>
+
+151
+00:11:47,160 --> 00:11:49,400
+<font color="#00ff00">We were going to escape Istanbul.</font>
+
+152
+00:11:49,400 --> 00:11:51,760
+<font color="#ffffff">Her father said</font>
+<font color="#ffffff">she ended things with you.</font>
+
+153
+00:11:51,760 --> 00:11:53,240
+<font color="#00ff00">Well, she changed her mind.</font>
+
+154
+00:11:53,240 --> 00:11:56,720
+<font color="#ffff00">Mesut Calak was murdered</font>
+<font color="#ffff00">last night.</font>
+
+155
+00:11:56,720 --> 00:11:57,760
+<font color="#ffff00">Where were you?</font>
+
+156
+00:11:58,840 --> 00:12:00,160
+<font color="#00ff00">Hiding in Vefa.</font>
+
+157
+00:12:00,160 --> 00:12:04,240
+<font color="#ffff00">So, first Gozde's killed,</font>
+<font color="#ffff00">then her fiance's strangled,</font>
+
+158
+00:12:04,240 --> 00:12:06,760
+<font color="#ffff00">thrown in a pool with</font>
+<font color="#ffff00">their engagement photo.</font>
+
+159
+00:12:06,760 --> 00:12:09,520
+<font color="#ffff00">That seems like someone</font>
+<font color="#ffff00">wasn't happy about their marriage.</font>
+
+160
+00:12:09,520 --> 00:12:12,920
+<font color="#ffffff">FIST POUNDS TABLE</font>
+
+161
+00:12:09,520 --> 00:12:12,920
+<font color="#00ff00">I told you they were not going</font>
+
+162
+00:12:09,520 --> 00:12:12,920
+<font color="#00ff00">to get married.</font>
+
+163
+00:12:12,920 --> 00:12:15,280
+<font color="#00ff00">She loved me.</font>
+
+164
+00:12:15,280 --> 00:12:17,800
+<font color="#ffffff">So what did you do, huh?</font>
+
+165
+00:12:17,800 --> 00:12:21,120
+<font color="#ffffff">When you failed to secure</font>
+<font color="#ffffff">the Canadian visa?</font>
+
+166
+00:12:23,680 --> 00:12:26,320
+<font color="#ffffff">You're starting a new life.</font>
+<font color="#ffffff">You needed money,</font>
+
+167
+00:12:26,320 --> 00:12:28,040
+<font color="#ffffff">which explains the cocaine.</font>
+
+168
+00:12:29,520 --> 00:12:30,720
+<font color="#ffff00">Where did you get it?</font>
+
+169
+00:12:32,480 --> 00:12:34,800
+<font color="#00ff00">We sold a lot of cocaine.</font>
+
+170
+00:12:34,800 --> 00:12:39,920
+<font color="#00ff00">We sold it for Cai Ze Lop,</font>
+<font color="#00ff00">to all his friends and connections.</font>
+
+171
+00:12:41,480 --> 00:12:44,760
+<font color="#00ff00">One night, when he was out of it,</font>
+
+172
+00:12:44,760 --> 00:12:48,600
+<font color="#00ff00">and the safe was open,</font>
+<font color="#00ff00">Gozde just put it in her bag.</font>
+
+173
+00:12:48,600 --> 00:12:49,640
+<font color="#00ff00">That simple.</font>
+
+174
+00:12:51,880 --> 00:12:53,400
+<font color="#00ff00">That's what got her killed.</font>
+
+175
+00:12:55,160 --> 00:12:56,640
+<font color="#00ff00">They were watching her.</font>
+
+176
+00:12:56,640 --> 00:13:00,680
+<font color="#ffffff">So you think Cai Ze Lop killed Gozde</font>
+
+177
+00:13:00,680 --> 00:13:02,720
+<font color="#ffffff">and then Mr Calak?</font>
+
+178
+00:13:04,960 --> 00:13:07,560
+<font color="#ffff00">So, if that's the case...</font>
+
+179
+00:13:07,560 --> 00:13:09,760
+<font color="#ffff00">..why is Gozde's blood on your skin?</font>
+
+180
+00:13:12,560 --> 00:13:15,240
+<font color="#00ff00">I had to touch her one last time.</font>
+
+181
+00:13:23,480 --> 00:13:25,960
+<font color="#ffff00">Were those your real documents?</font>
+<font color="#ffffff">Of course.</font>
+
+182
+00:13:25,960 --> 00:13:28,160
+<font color="#ffffff">What do you make of Kemal's story?</font>
+
+183
+00:13:28,160 --> 00:13:29,840
+<font color="#ffff00">It doesn't seem credible to me.</font>
+
+184
+00:13:29,840 --> 00:13:32,320
+<font color="#ffffff">Mm.</font>
+
+185
+00:13:29,840 --> 00:13:32,320
+<font color="#ffffff">PHONE RINGS</font>
+
+186
+00:13:32,320 --> 00:13:35,040
+<font color="#ffffff">Selma, how nice to hear from you.</font>
+
+187
+00:13:35,040 --> 00:13:38,200
+<font color="#00ffff">I'm going to charge Kemal with</font>
+<font color="#00ffff">possession with intent to supply,</font>
+
+188
+00:13:38,200 --> 00:13:39,720
+<font color="#00ffff">and Gozde's murder.</font>
+
+189
+00:13:39,720 --> 00:13:40,920
+<font color="#ffffff">Excellent, excellent.</font>
+
+190
+00:13:40,920 --> 00:13:43,080
+<font color="#ffffff">But may I suggest</font>
+<font color="#ffffff">you hold off a moment?</font>
+
+191
+00:13:43,080 --> 00:13:48,320
+<font color="#ffffff">Let us try to link him conclusively</font>
+<font color="#ffffff">to Mr Calak's death too</font>
+
+192
+00:13:48,320 --> 00:13:50,600
+<font color="#ffffff">and tie the entire matter up</font>
+<font color="#ffffff">with a ribbon</font>
+
+193
+00:13:50,600 --> 00:13:52,440
+<font color="#ffffff">that you can present to the press.</font>
+
+194
+00:13:55,200 --> 00:13:58,280
+<font color="#00ffff">Fine.</font>
+<font color="#ffffff">Thank you, Selma. Thank you.</font>
+
+195
+00:13:58,280 --> 00:13:59,680
+<font color="#ffffff">Oh, dear...</font>
+
+196
+00:13:59,680 --> 00:14:03,880
+<font color="#ffff00">And how are we going to conclusively</font>
+<font color="#ffff00">link Kemal to Mesut's death?</font>
+
+197
+00:14:03,880 --> 00:14:05,480
+<font color="#ffffff">We're not. Come on.</font>
+
+198
+00:14:15,280 --> 00:14:17,640
+<font color="#00ffff">Cai Ze Lop is inside.</font>
+<font color="#00ffff">Do you want to go in?</font>
+
+199
+00:14:18,640 --> 00:14:20,320
+<font color="#ffffff">No.</font>
+
+200
+00:14:20,320 --> 00:14:22,320
+<font color="#ffffff">Let's keep a watchful eye for now.</font>
+
+201
+00:14:25,240 --> 00:14:26,760
+<font color="#ffffff">Well, Detective?</font>
+
+202
+00:14:42,360 --> 00:14:43,400
+<font color="#ffff00">Where are you going?</font>
+
+203
+00:14:44,400 --> 00:14:46,760
+<font color="#ffffff">I have a tickle in the</font>
+<font color="#ffffff">back of my brain.</font>
+
+204
+00:15:02,080 --> 00:15:04,640
+<font color="#ffff00">So, what are we doing here?</font>
+
+205
+00:15:05,640 --> 00:15:08,240
+<font color="#00ffff">I got a statement from</font>
+<font color="#00ffff">one of Mr Calak's staff.</font>
+
+206
+00:15:08,240 --> 00:15:11,440
+<font color="#00ffff">He saw Cai Ze Lop's G-Wagon</font>
+<font color="#00ffff">in front of his house last night.</font>
+
+207
+00:15:11,440 --> 00:15:12,800
+<font color="#00ffff">Did Ikmen not tell you?</font>
+
+208
+00:15:12,800 --> 00:15:13,960
+<font color="#ffff00">Of course he didn't.</font>
+
+209
+00:15:13,960 --> 00:15:16,120
+<font color="#ffffff">BUZZER RINGS</font>
+
+210
+00:15:17,800 --> 00:15:19,400
+<font color="#ffffff">Jahit.</font>
+
+211
+00:15:23,160 --> 00:15:26,040
+<font color="#ffffff">WOMAN CHANTS</font>
+
+212
+00:16:24,280 --> 00:16:26,040
+<font color="#ffffff">MEHMET:</font><font color="#ffff00"> So who is this guy?</font>
+
+213
+00:16:26,040 --> 00:16:27,160
+<font color="#ffff00">Cai Ze Lop?</font>
+
+214
+00:16:27,160 --> 00:16:29,600
+<font color="#00ffff">He showed up on the radar</font>
+<font color="#00ffff">a few years ago.</font>
+
+215
+00:16:29,600 --> 00:16:32,520
+<font color="#00ffff">Supposedly the city's biggest</font>
+<font color="#00ffff">drug trafficker now,</font>
+
+216
+00:16:32,520 --> 00:16:35,000
+<font color="#00ffff">but you know how hard it is</font>
+<font color="#00ffff">to make that stick.</font>
+
+217
+00:16:40,280 --> 00:16:41,320
+<font color="#ffff00">Those are gun bags.</font>
+
+218
+00:16:42,440 --> 00:16:44,240
+<font color="#00ffff">Yes, they are.</font>
+
+219
+00:16:42,440 --> 00:16:44,240
+<font color="#ffffff">ENGINE STARTS</font>
+
+220
+00:17:56,720 --> 00:17:58,080
+<font color="#00ffff">I think he's heading to the water.</font>
+
+221
+00:17:58,080 --> 00:18:01,000
+<font color="#00ffff">Maybe he's going to dump the car.</font>
+<font color="#00ffff">Destroy any forensics.</font>
+
+222
+00:18:09,880 --> 00:18:11,280
+<font color="#ffff00">I don't like this.</font>
+
+223
+00:18:11,280 --> 00:18:12,600
+<font color="#ffff00">Something's off.</font>
+
+224
+00:18:12,600 --> 00:18:14,440
+<font color="#00ffff">We don't have a choice, my friend.</font>
+
+225
+00:18:14,440 --> 00:18:15,960
+<font color="#00ffff">We can't lose that car.</font>
+
+226
+00:18:19,480 --> 00:18:21,520
+<font color="#00ffff">What? Damn it!</font>
+
+227
+00:18:21,520 --> 00:18:23,360
+<font color="#ffffff">TYRES SCREECH</font>
+
+228
+00:18:23,360 --> 00:18:24,680
+<font color="#00ffff">Where did they go?</font>
+
+229
+00:18:27,200 --> 00:18:29,320
+<font color="#ffff00">Ayse, we need to get out of here.</font>
+
+230
+00:18:29,320 --> 00:18:30,760
+<font color="#00ffff">Shut up and let me think.</font>
+
+231
+00:18:39,600 --> 00:18:41,520
+<font color="#ffff00">I'll take a look.</font>
+<font color="#ffff00">You call for backup.</font>
+
+232
+00:18:41,520 --> 00:18:43,520
+<font color="#ffffff">AYSE:</font>
+
+233
+00:18:54,920 --> 00:18:55,960
+<font color="#00ffff">Suleyman!</font>
+
+234
+00:19:08,720 --> 00:19:10,600
+<font color="#ffffff">PHONE VIBRATES</font>
+
+235
+00:19:21,640 --> 00:19:24,040
+<font color="#00ff00">I thought we were friends,</font>
+<font color="#00ff00">Detective.</font>
+
+236
+00:19:24,040 --> 00:19:27,200
+<font color="#00ff00">After all, I did you a big favour</font>
+<font color="#00ff00">last night with the Lebanese kid.</font>
+
+237
+00:19:27,200 --> 00:19:29,360
+<font color="#00ffff">Did you also kill Mr Calak</font>
+<font color="#00ffff">last night?</font>
+
+238
+00:19:32,840 --> 00:19:34,920
+<font color="#00ff00">Strange question. Why do you ask?</font>
+
+239
+00:19:34,920 --> 00:19:37,840
+<font color="#00ffff">One of your cars was</font>
+<font color="#00ffff">ID'd in his compound.</font>
+
+240
+00:19:37,840 --> 00:19:39,680
+<font color="#00ff00">I had him driven home.</font>
+
+241
+00:19:39,680 --> 00:19:42,400
+<font color="#00ff00">He was unsettled after your</font>
+<font color="#00ff00">superior had spoken to him.</font>
+
+242
+00:19:42,400 --> 00:19:44,080
+<font color="#00ffff">Why were you watching Gozde Seren?</font>
+
+243
+00:19:44,080 --> 00:19:46,560
+<font color="#00ff00">I do my best to know everything</font>
+<font color="#00ff00">about everyone.</font>
+
+244
+00:19:46,560 --> 00:19:47,680
+<font color="#00ffff">Yeah, evidently.</font>
+
+245
+00:19:47,680 --> 00:19:49,920
+<font color="#00ff00">Relationships can be mutually</font>
+<font color="#00ff00">beneficial.</font>
+
+246
+00:19:49,920 --> 00:19:51,960
+<font color="#00ff00">I help Calak, he helps me.</font>
+
+247
+00:19:51,960 --> 00:19:53,200
+<font color="#00ff00">If I help you...</font>
+
+248
+00:19:53,200 --> 00:19:55,080
+<font color="#00ffff">No, that's not going to happen.</font>
+
+249
+00:19:55,080 --> 00:19:58,000
+<font color="#00ff00">Poor strategy, Detective.</font>
+<font color="#00ffff">This is not quid pro quo.</font>
+
+250
+00:19:58,000 --> 00:19:59,440
+<font color="#00ffff">You give me the information,</font>
+<font color="#00ffff">that's it.</font>
+
+251
+00:19:59,440 --> 00:20:01,480
+<font color="#00ffff">End of transaction, we go home.</font>
+
+252
+00:20:02,640 --> 00:20:05,040
+<font color="#00ff00">I like you, detective. You're brave.</font>
+
+253
+00:20:05,040 --> 00:20:07,920
+<font color="#00ff00">Look, The night Godze died</font>
+<font color="#00ff00">I am told that</font>
+
+254
+00:20:07,920 --> 00:20:10,880
+<font color="#00ff00">she paid a visit to</font>
+<font color="#00ff00">Sirkeci train station first.</font>
+
+255
+00:20:10,880 --> 00:20:12,680
+<font color="#00ff00">My men lost her in the crowd,</font>
+
+256
+00:20:12,680 --> 00:20:15,680
+<font color="#00ff00">but you might be interested</font>
+<font color="#00ff00">to know why she went.</font>
+
+257
+00:20:15,680 --> 00:20:17,880
+<font color="#00ff00">Perhaps we'll speak again one day.</font>
+
+258
+00:20:17,880 --> 00:20:21,200
+<font color="#00ff00">You never know when a man with</font>
+<font color="#00ff00">information can be useful to you.</font>
+
+259
+00:20:21,200 --> 00:20:25,720
+<font color="#00ff00">Especially when those closest</font>
+<font color="#00ff00">to you are concealing things.</font>
+
+260
+00:20:25,720 --> 00:20:27,560
+<font color="#00ffff">What do you mean?</font>
+
+261
+00:20:27,560 --> 00:20:29,760
+<font color="#00ff00">That's the end of the</font>
+<font color="#00ff00">complimentary appetisers.</font>
+
+262
+00:20:29,760 --> 00:20:31,920
+<font color="#00ff00">But, please, stop by the</font>
+<font color="#00ff00">restaurant</font>
+
+263
+00:20:31,920 --> 00:20:34,920
+<font color="#00ff00">when you're ready to</font>
+<font color="#00ff00">pay for your meal, hmm?</font>
+
+264
+00:20:36,720 --> 00:20:38,480
+<font color="#ffffff">HE HANGS UP PHONE</font>
+
+265
+00:20:38,480 --> 00:20:40,200
+<font color="#ffffff">SHE SIGHS</font>
+
+266
+00:20:47,680 --> 00:20:48,760
+<font color="#ffffff">Who was that?</font>
+
+267
+00:20:49,680 --> 00:20:51,600
+<font color="#00ffff">Cai Ze Lop.</font>
+
+268
+00:20:51,600 --> 00:20:53,120
+<font color="#00ffff">We need Tarik.</font>
+
+269
+00:21:07,240 --> 00:21:08,440
+<font color="#ffffff">HE SNIGGERS</font>
+
+270
+00:21:33,440 --> 00:21:35,080
+<font color="#ffffff">WATER RUNNING</font>
+
+271
+00:21:41,920 --> 00:21:43,440
+<font color="#ffffff">I'm looking at the footage now.</font>
+
+272
+00:21:43,440 --> 00:21:44,760
+<font color="#ffff00">Anything?</font>
+
+273
+00:21:44,760 --> 00:21:46,440
+<font color="#00ffff">She's got to be there somewhere.</font>
+
+274
+00:21:46,440 --> 00:21:47,480
+<font color="#ffffff">Nothing yet.</font>
+
+275
+00:21:49,440 --> 00:21:51,600
+<font color="#ffffff">PHONE RINGING, CAT MEOWING</font>
+
+276
+00:21:55,280 --> 00:21:57,520
+<font color="#ffffff">Wait. Wait, wait, wait.</font>
+
+277
+00:21:57,520 --> 00:21:59,040
+<font color="#ffffff">Got her.</font>
+
+278
+00:22:05,920 --> 00:22:07,320
+<font color="#ffffff">I'm sending something now.</font>
+
+279
+00:22:10,320 --> 00:22:11,480
+<font color="#ffff00">What's she doing?</font>
+
+280
+00:22:14,120 --> 00:22:15,680
+<font color="#00ffff">That's her escape bag.</font>
+
+281
+00:22:16,680 --> 00:22:18,000
+<font color="#00ffff">So what happened to her?</font>
+
+282
+00:22:23,720 --> 00:22:26,760
+<font color="#ffff00">The cemetery is near the water.</font>
+
+283
+00:22:26,760 --> 00:22:28,400
+<font color="#ffff00">Let's get a diving team.</font>
+
+284
+00:22:49,480 --> 00:22:51,560
+<font color="#ffffff">SHE WEEPS AND MUTTERS</font>
+
+285
+00:22:53,960 --> 00:22:56,280
+<font color="#ffffff">MUSIC PLAYS</font>
+
+286
+00:23:03,320 --> 00:23:04,480
+<font color="#ffffff">MUSIC STOPS</font>
+
+287
+00:25:35,240 --> 00:25:36,760
+<font color="#ffff00">So you killed him?</font>
+
+288
+00:25:36,760 --> 00:25:40,160
+<font color="#ffff00">And you threw the photo in the pool,</font>
+<font color="#ffff00">make it look like Kemal did it.</font>
+
+289
+00:26:04,480 --> 00:26:05,600
+<font color="#ffffff">SHE SUCKS TEETH</font>
+
+290
+00:28:06,320 --> 00:28:08,720
+<font color="#00ffff">Selma won't want to lose face.</font>
+
+291
+00:28:08,720 --> 00:28:12,080
+<font color="#00ffff">Well, I think we're all done here</font>
+<font color="#00ffff">for the day.</font>
+
+292
+00:28:14,560 --> 00:28:15,920
+<font color="#ffff00">Cool.</font>
+
+293
+00:28:21,800 --> 00:28:24,960
+<font color="#ffff00">Hey. We did good.</font>
+
+294
+00:28:24,960 --> 00:28:28,000
+<font color="#ffff00">All of us.</font><font color="#00ffff"> Yeah.</font>
+
+295
+00:28:39,240 --> 00:28:41,360
+<font color="#ffffff">CAR HORN HONKS</font>
+
+296
+00:28:41,360 --> 00:28:42,720
+<font color="#ffffff">Mehmet.</font>
+
+297
+00:28:42,720 --> 00:28:44,000
+<font color="#ffffff">Mehmet!</font>
+
+298
+00:28:45,960 --> 00:28:47,120
+<font color="#ffff00">Dad.</font>
+
+299
+00:28:47,120 --> 00:28:50,680
+<font color="#ffffff">I was in town on business and...</font>
+
+300
+00:28:50,680 --> 00:28:53,000
+<font color="#ffffff">..I wondered,</font>
+<font color="#ffffff">maybe we could have dinner?</font>
+
+301
+00:28:53,000 --> 00:28:55,400
+<font color="#ffffff">I tried calling, but...</font><font color="#ffff00"> Yeah.</font>
+
+302
+00:28:55,400 --> 00:28:58,560
+<font color="#ffff00">Sorry, um, things are hectic.</font>
+
+303
+00:29:00,480 --> 00:29:02,400
+<font color="#ffff00">Thank you for the basket.</font>
+
+304
+00:29:02,400 --> 00:29:03,640
+<font color="#ffffff">I get it.</font>
+
+305
+00:29:03,640 --> 00:29:06,880
+<font color="#ffffff">It's a new job. You're trying to</font>
+<font color="#ffffff">get your foot in the door, right?</font>
+
+306
+00:29:06,880 --> 00:29:08,040
+<font color="#ffff00">Mm.</font>
+
+307
+00:29:09,160 --> 00:29:12,600
+<font color="#ffffff">God, I mean, I can't believe</font>
+<font color="#ffffff">it's you, Mehmet.</font>
+
+308
+00:29:12,600 --> 00:29:14,400
+<font color="#ffffff">HE CHUCKLES</font>
+
+309
+00:29:15,920 --> 00:29:17,200
+<font color="#ffffff">How long has it been?</font>
+
+310
+00:29:18,640 --> 00:29:19,680
+<font color="#ffff00">A long time.</font>
+
+311
+00:29:20,760 --> 00:29:22,840
+<font color="#ffffff">You realise that wasn't...</font>
+
+312
+00:29:22,840 --> 00:29:25,560
+<font color="#ffffff">I mean, please tell me you know</font>
+<font color="#ffffff">that.</font>
+
+313
+00:29:25,560 --> 00:29:28,040
+<font color="#ffffff">Your mother was a bit...</font>
+<font color="#ffff00">Yeah, I know.</font>
+
+314
+00:29:30,160 --> 00:29:32,600
+<font color="#ffff00">Look, I'm off to mosque.</font>
+
+315
+00:29:32,600 --> 00:29:34,960
+<font color="#ffff00">I'm sorry you came all this way.</font>
+
+316
+00:29:34,960 --> 00:29:37,000
+<font color="#ffffff">Another time?</font><font color="#ffff00"> Yeah.</font>
+
+317
+00:30:05,320 --> 00:30:07,200
+<font color="#ffffff">You go. I'll come back later.</font>
+
+318
+00:30:21,200 --> 00:30:23,760
+<font color="#ffff00">These articles not ringing</font>
+<font color="#ffff00">any bells?</font>
+
+319
+00:30:23,760 --> 00:30:25,240
+<font color="#ffff00">Anything at all, Leyla?</font>
+
+320
+00:30:26,880 --> 00:30:28,040
+<font color="#ffffff">Nothing.</font>
+
+321
+00:30:29,920 --> 00:30:30,960
+<font color="#ffffff">I'm sorry.</font>
+
+322
+00:30:35,440 --> 00:30:38,560
+<font color="#ffffff">I barely remember anything</font>
+<font color="#ffffff">about being here.</font>
+
+323
+00:30:38,560 --> 00:30:42,080
+<font color="#ffffff">Like, the city?</font>
+<font color="#ffffff">Yeah, it's my city.</font>
+
+324
+00:30:42,080 --> 00:30:44,680
+<font color="#ffffff">And all the summers here</font>
+<font color="#ffffff">as a kid but...</font>
+
+325
+00:30:44,680 --> 00:30:47,680
+<font color="#ffffff">..but this stuff, it's...</font>
+<font color="#ffffff">it's gone.</font>
+
+326
+00:30:52,720 --> 00:30:55,320
+<font color="#ffffff">You want to find out what happened</font>
+<font color="#ffffff">to me, don't you?</font>
+
+327
+00:30:55,320 --> 00:30:56,600
+<font color="#ffff00">I'm going to try.</font>
+
+328
+00:30:59,520 --> 00:31:01,280
+<font color="#ffffff">I'm sorry I can't help.</font>
+
+329
+00:31:02,720 --> 00:31:03,800
+<font color="#ffff00">Not yet.</font>
+
+330
+00:31:05,240 --> 00:31:07,760
+<font color="#ffffff">Right. "Not yet."</font>
+
+331
+00:31:11,920 --> 00:31:13,600
+<font color="#ffffff">SHE SIGHS</font>
+
+332
+00:31:13,600 --> 00:31:15,120
+<font color="#ffffff">I wish I knew why I left London.</font>
+
+333
+00:31:16,480 --> 00:31:17,520
+<font color="#ffff00">Me too.</font>
+
+334
+00:31:26,400 --> 00:31:27,720
+<font color="#ffff00">No, nothing.</font>
+
+335
+00:31:29,320 --> 00:31:31,840
+<font color="#ffffff">FOGHORN WAILS IN DISTANCE</font>
+
+336
+00:31:35,040 --> 00:31:36,600
+<font color="#ffffff">HORN HONKS</font>
+
+337
+00:31:36,600 --> 00:31:38,200
+<font color="#ffff00">You know anything about him?</font>
+
+338
+00:31:40,760 --> 00:31:42,600
+<font color="#ffffff">Why do you ask?</font>
+
+339
+00:31:42,600 --> 00:31:46,440
+<font color="#ffff00">After Leyla and I broke up,</font>
+<font color="#ffff00">she lived here and I was in London,</font>
+
+340
+00:31:46,440 --> 00:31:47,720
+<font color="#ffff00">I may have...</font>
+
+341
+00:31:49,840 --> 00:31:53,440
+<font color="#ffff00">..engaged in a light bit of</font>
+<font color="#ffff00">Instagram surveillance.</font>
+
+342
+00:31:53,440 --> 00:31:56,160
+<font color="#ffff00">He used to like and comment</font>
+<font color="#ffff00">on everything she posted.</font>
+
+343
+00:31:56,160 --> 00:32:00,640
+<font color="#ffff00">And then after the hit-and-run,</font>
+<font color="#ffff00">deleted his account.</font>
+
+344
+00:32:00,640 --> 00:32:02,000
+<font color="#ffff00">Were they...</font>
+
+345
+00:32:02,960 --> 00:32:04,000
+<font color="#ffff00">..together?</font>
+
+346
+00:32:13,680 --> 00:32:15,640
+<font color="#ffffff">I liked him.</font>
+
+347
+00:32:15,640 --> 00:32:17,320
+<font color="#ffff00">Ouch.</font>
+
+348
+00:32:17,320 --> 00:32:19,360
+<font color="#ffffff">What can I say?</font>
+
+349
+00:32:19,360 --> 00:32:22,680
+<font color="#ffffff">He liked my food.</font>
+<font color="#ffffff">He used to bring me flowers.</font>
+
+350
+00:32:25,000 --> 00:32:26,240
+<font color="#ffffff">But...</font>
+
+351
+00:32:27,480 --> 00:32:28,520
+<font color="#ffffff">..you're right.</font>
+
+352
+00:32:29,600 --> 00:32:30,880
+<font color="#ffffff">Now, nothing.</font>
+
+353
+00:34:54,680 --> 00:34:55,720
+<font color="#ffffff">Jacob Crews.</font>
+
+354
+00:34:56,800 --> 00:34:58,680
+<font color="#ffff00">Hey.</font>
+
+355
+00:34:58,680 --> 00:35:00,800
+<font color="#ffffff">I'm a friend of Leyla Pamuk's.</font>
+
+356
+00:35:00,800 --> 00:35:01,840
+<font color="#ffff00">Who?</font>
+
+357
+00:35:04,040 --> 00:35:07,560
+<font color="#ffffff">Auntie Hulya will be sad</font>
+<font color="#ffffff">you forgot her dolmades so easily.</font>
+
+358
+00:35:12,120 --> 00:35:14,200
+<font color="#ffff00">Man, she talked about you a lot.</font>
+
+359
+00:35:18,000 --> 00:35:19,440
+<font color="#ffff00">Is she still alive?</font>
+
+360
+00:35:23,160 --> 00:35:26,160
+<font color="#ffff00">You broke her heart, you know?</font>
+<font color="#ffffff">Yeah.</font>
+
+361
+00:35:27,880 --> 00:35:30,440
+<font color="#ffffff">Well, I'm trying to make amends.</font>
+
+362
+00:35:30,440 --> 00:35:33,880
+<font color="#ffff00">Of course.</font>
+<font color="#ffff00">You want to find out what happened.</font>
+
+363
+00:35:33,880 --> 00:35:36,560
+<font color="#ffff00">Well, you must think</font>
+
+364
+00:35:36,560 --> 00:35:37,760
+<font color="#ffff00">I'm a coward.</font>
+
+365
+00:35:41,360 --> 00:35:46,600
+<font color="#ffff00">Have you ever considered the idea</font>
+<font color="#ffff00">that it was just an accident?</font><font color="#ffffff"> No.</font>
+
+366
+00:35:46,600 --> 00:35:51,000
+<font color="#ffffff">I don't think you have either. Or</font>
+<font color="#ffffff">else you wouldn't have gone ghost.</font>
+
+367
+00:35:55,000 --> 00:35:57,000
+<font color="#ffffff">What was Leyla investigating?</font>
+
+368
+00:35:58,440 --> 00:36:02,280
+<font color="#ffff00">I don't know. Truly.</font>
+
+369
+00:36:02,280 --> 00:36:04,280
+<font color="#ffffff">She didn't tell you anything?</font>
+
+370
+00:36:04,280 --> 00:36:08,120
+<font color="#ffff00">I'm sorry, listen,</font>
+<font color="#ffff00">we do good work here.</font>
+
+371
+00:36:08,120 --> 00:36:12,640
+<font color="#ffff00">We help. I won't jeopardise that</font>
+<font color="#ffff00">for anyone.</font>
+
+372
+00:36:12,640 --> 00:36:14,760
+<font color="#ffff00">Not even Leyla.</font>
+
+373
+00:36:14,760 --> 00:36:18,560
+<font color="#ffffff">You don't care about her at all.</font>
+<font color="#ffff00">Of course I do.</font>
+
+374
+00:36:18,560 --> 00:36:21,040
+<font color="#ffff00">I really don't know what you think</font>
+<font color="#ffff00">you're going to achieve here,</font>
+
+375
+00:36:21,040 --> 00:36:23,200
+<font color="#ffff00">all by yourself.</font>
+
+376
+00:36:23,200 --> 00:36:25,880
+<font color="#ffff00">My conscience...is clear.</font>
+
+377
+00:36:51,280 --> 00:36:52,960
+<font color="#ffffff">Kayra Khan?</font>
+
+378
+00:36:58,440 --> 00:37:01,720
+<font color="#ffffff">What are you all doing?</font>
+<font color="#ffff00">You're late.</font>
+
+379
+00:37:04,080 --> 00:37:05,880
+<font color="#ffffff">What's going on?</font>
+
+380
+00:37:05,880 --> 00:37:08,480
+<font color="#ffffff">Oh. Whoa, no.</font>
+
+381
+00:37:08,480 --> 00:37:11,440
+<font color="#ffffff">Cahit confessed. Why are you</font>
+<font color="#ffffff">looking at Lokman's interview?</font>
+
+382
+00:37:11,440 --> 00:37:14,240
+<font color="#ffff00">Cahit is protecting Lokman.</font>
+
+383
+00:37:14,240 --> 00:37:16,040
+<font color="#ffffff">You're actually out of your mind.</font>
+
+384
+00:37:16,040 --> 00:37:21,160
+<font color="#ffff00">How could Cahit fake a message</font>
+<font color="#ffff00">on Gozde's phone from Kemal?</font>
+
+385
+00:37:21,160 --> 00:37:23,480
+<font color="#ffffff">Spyware.</font>
+<font color="#ffffff">Guy was a controlling psychopath.</font>
+
+386
+00:37:23,480 --> 00:37:27,360
+<font color="#00ffff">Yeah, Tarik did find spyware on</font>
+<font color="#00ffff">Gozde's phone. But the problem is</font>
+
+387
+00:37:27,360 --> 00:37:29,440
+<font color="#00ffff">there was a message sent</font>
+<font color="#00ffff">from Kemal's phone as well.</font>
+
+388
+00:37:29,440 --> 00:37:30,560
+<font color="#00ffff">Do you think it's plausible</font>
+
+389
+00:37:30,560 --> 00:37:33,120
+<font color="#00ffff">that Cahit put spyware</font>
+<font color="#00ffff">on Gozde and Kemal's phone?</font>
+
+390
+00:37:33,120 --> 00:37:34,680
+<font color="#ffffff">So what do you think happened?</font>
+
+391
+00:37:34,680 --> 00:37:38,440
+<font color="#00ffff">Cahit killed Mesur Calak</font>
+<font color="#00ffff">because of the business dispute.</font>
+
+392
+00:37:38,440 --> 00:37:42,000
+<font color="#00ffff">But it was Lokman who killed Gozde.</font>
+<font color="#00ff00">We have been digging into him</font>
+
+393
+00:37:42,000 --> 00:37:44,720
+<font color="#00ff00">chasing down some weird</font>
+<font color="#00ff00">debit card transactions.</font>
+
+394
+00:37:44,720 --> 00:37:48,520
+<font color="#00ff00">Here's his bank statement.</font>
+<font color="#00ff00">Some strange purchases.</font>
+
+395
+00:37:48,520 --> 00:37:50,000
+<font color="#00ff00">Cosmetics, hair products.</font>
+
+396
+00:37:50,000 --> 00:37:54,080
+<font color="#ffffff">Cosmetics? OK, so,</font>
+<font color="#ffffff">solid evidence, then? Jesus Christ.</font>
+
+397
+00:37:54,080 --> 00:37:57,560
+<font color="#ffffff">You know what we do have?</font>
+<font color="#ffffff">CCTV footage of Lokman</font>
+
+398
+00:37:57,560 --> 00:38:00,000
+<font color="#ffffff">halfway across Istanbul</font>
+<font color="#ffffff">at the time of the murder.</font><font color="#00ff00"> I know.</font>
+
+399
+00:38:00,000 --> 00:38:01,680
+<font color="#ffffff">Yeah, bring it up, then.</font>
+
+400
+00:38:03,120 --> 00:38:05,040
+<font color="#00ff00">So...</font><font color="#ffffff"> There we go.</font>
+
+401
+00:38:07,720 --> 00:38:08,760
+<font color="#ffffff">Wait.</font>
+
+402
+00:38:11,800 --> 00:38:13,200
+<font color="#ffffff">Unpause it.</font>
+
+403
+00:38:15,000 --> 00:38:17,040
+<font color="#ffffff">Lockman's left-handed.</font>
+
+404
+00:38:18,440 --> 00:38:21,640
+<font color="#ffffff">Whoever went to the hostel</font>
+<font color="#ffffff">that night isn't.</font>
+
+405
+00:38:21,640 --> 00:38:24,360
+<font color="#ffffff">So maybe Lokman faked that, too.</font>
+
+406
+00:38:29,680 --> 00:38:32,240
+<font color="#00ff00">I'm going to analyse this right now.</font>
+
+407
+00:38:38,360 --> 00:38:40,840
+<font color="#ffffff">Have you looked at these?</font>
+
+408
+00:38:40,840 --> 00:38:42,640
+<font color="#00ffff">No, we just got those.</font>
+
+409
+00:38:44,000 --> 00:38:46,360
+<font color="#ffffff">Lokman's making a bomb.</font>
+
+410
+00:39:06,680 --> 00:39:08,960
+<font color="#00ffff">Uncuff him.</font>
+
+411
+00:39:08,960 --> 00:39:12,800
+<font color="#00ffff">Kemal, Look at me.</font>
+<font color="#00ffff">We are going to help you, I swear,</font>
+
+412
+00:39:12,800 --> 00:39:15,680
+<font color="#00ffff">but right now I need to tell you</font>
+<font color="#00ffff">something really important.</font>
+
+413
+00:39:15,680 --> 00:39:17,160
+<font color="#00ffff">And you need to tell me everything</font>
+
+414
+00:39:17,160 --> 00:39:21,000
+<font color="#00ffff">about your friendship with Lokman,</font>
+<font color="#00ffff">OK? Yeah?</font><font color="#00ff00"> Yeah.</font>
+
+415
+00:39:33,760 --> 00:39:36,560
+<font color="#00ff00">Are you sure? I mean,</font>
+<font color="#00ff00">I knew he was angry, but this?</font>
+
+416
+00:39:36,560 --> 00:39:39,040
+<font color="#00ffff">No, I know, but right now you need</font>
+<font color="#00ffff">to concentrate and you need to think</font>
+
+417
+00:39:39,040 --> 00:39:42,320
+<font color="#00ffff">of anything that might help us</font>
+<font color="#00ffff">find him. Anything.</font>
+
+418
+00:39:45,680 --> 00:39:46,960
+<font color="#ffffff">Mrs Seren.</font>
+
+419
+00:39:46,960 --> 00:39:49,120
+<font color="#ffffff">PHONE BUZZES</font>
+
+420
+00:39:49,120 --> 00:39:52,160
+<font color="#ffff00">Yep.</font><font color="#00ffff"> Kemal says he's the one</font>
+<font color="#00ffff">that got Lokman into the dark web.</font>
+
+421
+00:39:52,160 --> 00:39:54,880
+<font color="#00ffff">He knows his usernames, passwords,</font>
+<font color="#00ffff">everything, he just needs a laptop.</font>
+
+422
+00:39:54,880 --> 00:39:56,880
+<font color="#ffff00">Whatever he needs, do it.</font>
+
+423
+00:40:02,640 --> 00:40:04,840
+<font color="#00ff00">OK, just log in.</font><font color="#00ffff"> Mm-hm.</font>
+
+424
+00:40:14,680 --> 00:40:16,080
+<font color="#00ff00">Whoa.</font>
+
+425
+00:40:16,080 --> 00:40:17,120
+<font color="#00ffff">What is it?</font>
+
+426
+00:40:22,040 --> 00:40:25,440
+<font color="#ffff00">Ayse.</font><font color="#00ffff"> OK, boss, Lokman is into</font>
+<font color="#00ffff">some really dark stuff, OK?</font>
+
+427
+00:40:25,440 --> 00:40:28,480
+<font color="#00ffff">Kemal found a whole bunch of posts</font>
+<font color="#00ffff">on misogynist incel forums.</font>
+
+428
+00:40:28,480 --> 00:40:30,440
+<font color="#00ffff">He's posted, like,</font>
+<font color="#00ffff">an anti-female manifesto,</font>
+
+429
+00:40:30,440 --> 00:40:32,360
+<font color="#00ffff">says he's going to martyr himself</font>
+<font color="#00ffff">for the male cause,</font>
+
+430
+00:40:32,360 --> 00:40:35,160
+<font color="#00ffff">and he's rigged up a live stream</font>
+<font color="#00ffff">so the whole world can watch.</font>
+
+431
+00:40:35,160 --> 00:40:39,080
+<font color="#ffff00">Where is he?</font>
+<font color="#00ffff">He's at the community centre.</font>
+
+432
+00:40:39,080 --> 00:40:42,600
+<font color="#00ffff">Gozde's memorial.</font><font color="#ffff00"> Let's go.</font>
+
+433
+00:40:55,040 --> 00:40:56,480
+<font color="#ffffff">Welcome, everybody.</font>
+
+434
+00:40:56,480 --> 00:40:59,680
+<font color="#ffffff">This week has been devastating.</font>
+<font color="#00ffff">You're going to do great.</font>
+
+435
+00:40:59,680 --> 00:41:02,000
+<font color="#ffffff">Gozde Seren was one of us.</font>
+
+436
+00:41:02,000 --> 00:41:05,360
+<font color="#ffffff">Her death, her murder,</font>
+
+437
+00:41:05,360 --> 00:41:08,400
+<font color="#ffffff">it highlights everything</font>
+<font color="#ffffff">our action group</font>
+
+438
+00:41:08,400 --> 00:41:10,440
+<font color="#ffffff">has said since day one.</font>
+
+439
+00:41:08,400 --> 00:41:10,440
+<font color="#ffffff">MICROPHONE CUTS OFF</font>
+
+440
+00:41:10,440 --> 00:41:13,360
+<font color="#ffffff">Um...can you hear me?</font>
+
+441
+00:41:17,120 --> 00:41:18,480
+<font color="#ffffff">What are you doing?</font>
+
+442
+00:41:18,480 --> 00:41:20,600
+<font color="#00ff00">I've come for the memorial.</font>
+
+443
+00:41:25,080 --> 00:41:26,360
+<font color="#00ff00">Smile, everybody.</font>
+
+444
+00:41:27,960 --> 00:41:32,800
+<font color="#ffffff">SCREAMING</font>
+
+445
+00:41:32,800 --> 00:41:35,760
+<font color="#00ff00">Sit down! Sit back down!</font>
+
+446
+00:41:37,280 --> 00:41:40,480
+<font color="#00ff00">Go back to your seats.</font>
+<font color="#00ff00">Sit down!</font>
+
+447
+00:41:48,960 --> 00:41:51,520
+<font color="#00ff00">I need to tell you about Gozde.</font>
+
+448
+00:41:51,520 --> 00:41:53,000
+<font color="#ffffff">This is all my fault.</font>
+
+449
+00:42:05,240 --> 00:42:06,840
+<font color="#00ffff">This way.</font>
+
+450
+00:42:06,840 --> 00:42:09,720
+<font color="#00ffff">The main doors are locked.</font>
+<font color="#00ffff">He hacked the system.</font>
+
+451
+00:42:10,960 --> 00:42:13,560
+<font color="#ffffff">Ayse alerted SWAT. ETA ten minutes.</font>
+
+452
+00:42:18,520 --> 00:42:20,440
+<font color="#00ff00">This makes me sick!</font>
+
+453
+00:42:20,440 --> 00:42:24,480
+<font color="#00ff00">You're all worshipping</font>
+<font color="#00ff00">this hypocrite,</font>
+
+454
+00:42:24,480 --> 00:42:27,520
+<font color="#00ff00">wearing a scarf,</font>
+<font color="#00ff00">pretending to be a respectful girl,</font>
+
+455
+00:42:27,520 --> 00:42:31,920
+<font color="#00ff00">and then whoring herself</font>
+<font color="#00ff00">behind her fiance's back!</font>
+
+456
+00:42:31,920 --> 00:42:35,280
+<font color="#00ff00">You're all hypocrites.</font>
+<font color="#00ff00">She wasn't one of you.</font>
+
+457
+00:42:35,280 --> 00:42:39,760
+<font color="#00ff00">You're just using her death</font>
+<font color="#00ff00">for your feminist, feminazi cause.</font>
+
+458
+00:42:39,760 --> 00:42:43,880
+<font color="#ffffff">SHOUTING INSIDE</font>
+
+459
+00:42:43,880 --> 00:42:47,280
+<font color="#00ffff">There is also a narrow space under</font>
+<font color="#00ffff">the stage where we can access...</font><font color="#ffffff"> No,</font>
+
+460
+00:42:47,280 --> 00:42:49,320
+<font color="#ffffff">it's too dangerous,</font>
+<font color="#ffffff">you might spook him.</font>
+
+461
+00:42:49,320 --> 00:42:50,800
+<font color="#ffffff">PHONE BUZZES</font>
+
+462
+00:43:02,680 --> 00:43:04,640
+<font color="#ffffff">It's going viral.</font>
+
+463
+00:43:04,640 --> 00:43:07,160
+<font color="#00ff00">In a few seconds it'll be too late.</font>
+
+464
+00:43:08,960 --> 00:43:10,920
+<font color="#ffff00">We are going in.</font>
+
+465
+00:43:10,920 --> 00:43:13,720
+<font color="#ffffff">SWAT will bring a negotiator.</font>
+<font color="#ffff00">He doesn't want to negotiate.</font>
+
+466
+00:43:13,720 --> 00:43:17,120
+<font color="#ffff00">He's putting on a show.</font>
+<font color="#ffffff">You're too emotionally invested.</font>
+
+467
+00:43:17,120 --> 00:43:20,080
+<font color="#ffff00">Can you take my friend</font>
+<font color="#ffff00">to that place under the stage?</font>
+
+468
+00:43:20,080 --> 00:43:24,440
+<font color="#ffffff">This is...</font><font color="#ffff00"> Detective.</font>
+<font color="#ffff00">I need you to trust me.</font>
+
+469
+00:43:24,440 --> 00:43:27,040
+<font color="#ffff00">Please go, go.</font>
+
+470
+00:43:36,760 --> 00:43:39,000
+<font color="#ffffff">POUNDING ON DOOR</font>
+
+471
+00:43:39,000 --> 00:43:40,680
+<font color="#ffff00">Inspector Cetin Ikmen.</font>
+
+472
+00:43:42,640 --> 00:43:46,320
+<font color="#ffff00">I thought you wanted</font>
+<font color="#ffff00">to debate a feminist?</font>
+
+473
+00:43:46,320 --> 00:43:50,120
+<font color="#ffff00">Well, I volunteer.</font>
+
+474
+00:43:50,120 --> 00:43:52,600
+<font color="#00ff00">Anyone comes in from behind you</font>
+<font color="#00ff00">or you shoot me,</font>
+
+475
+00:43:52,600 --> 00:43:54,880
+<font color="#00ff00">I let go, we all die.</font>
+
+476
+00:43:54,880 --> 00:43:57,080
+<font color="#ffff00">OK, it's a deal.</font>
+
+477
+00:44:15,000 --> 00:44:18,560
+<font color="#ffff00">So...what are we discussing?</font>
+
+478
+00:44:18,560 --> 00:44:23,000
+<font color="#00ff00">The fact that there is more of us</font>
+<font color="#00ff00">than there are of them.</font>
+
+479
+00:44:23,000 --> 00:44:25,040
+<font color="#ffff00">So is that why you killed Gozde?</font>
+
+480
+00:44:27,320 --> 00:44:30,560
+<font color="#00ff00">Revolution requires sacrifice.</font>
+
+481
+00:44:30,560 --> 00:44:33,160
+<font color="#ffff00">I have to confess,</font>
+<font color="#ffff00">I don't want to debate.</font>
+
+482
+00:44:34,960 --> 00:44:36,320
+<font color="#00ffff">There.</font>
+
+483
+00:44:42,400 --> 00:44:44,880
+<font color="#ffff00">I just want you to question,</font>
+
+484
+00:44:44,880 --> 00:44:48,440
+<font color="#ffff00">if you go through with this,</font>
+<font color="#ffff00">whether it'll work.</font>
+
+485
+00:44:48,440 --> 00:44:52,160
+<font color="#ffff00">I mean, will you be able to inspire</font>
+<font color="#ffff00">your brothers to rise up</font>
+
+486
+00:44:52,160 --> 00:44:54,840
+<font color="#ffff00">against women when they find out</font>
+
+487
+00:44:54,840 --> 00:44:58,400
+<font color="#ffff00">you didn't want to take any credits</font>
+<font color="#ffff00">for what you had done?</font>
+
+488
+00:44:58,400 --> 00:45:01,480
+<font color="#ffff00">In fact,</font>
+<font color="#ffff00">you went to a lot of trouble</font>
+
+489
+00:45:01,480 --> 00:45:05,040
+<font color="#ffff00">to ensure your friend Kemal did.</font>
+
+490
+00:45:07,600 --> 00:45:10,280
+<font color="#ffff00">So, is this really</font>
+
+491
+00:45:10,280 --> 00:45:11,960
+<font color="#ffff00">for the incel cause</font>
+
+492
+00:45:11,960 --> 00:45:15,000
+<font color="#ffff00">or...jealousy</font>
+
+493
+00:45:15,000 --> 00:45:17,960
+<font color="#ffff00">masquerading as martyrdom?</font>
+
+494
+00:45:17,960 --> 00:45:22,320
+<font color="#00ff00">You don't get it.</font>
+<font color="#00ff00">You're too old and too stupid.</font>
+
+495
+00:45:22,320 --> 00:45:26,320
+<font color="#00ff00">You can't fathom the rage</font>
+<font color="#00ff00">I'll unleash when I do this.</font>
+
+496
+00:45:26,320 --> 00:45:29,720
+<font color="#00ffff">I'm sorry.</font><font color="#ffffff"> Cicek!</font>
+<font color="#00ffff">This is just stupid.</font>
+
+497
+00:45:31,520 --> 00:45:36,000
+<font color="#00ffff">This isn't about Gozde. It's not...</font>
+<font color="#00ffff">It's not even about women.</font>
+
+498
+00:45:36,000 --> 00:45:38,200
+<font color="#00ffff">You just need attention. Why?</font>
+
+499
+00:45:39,880 --> 00:45:41,400
+<font color="#ffff00">Your father.</font>
+
+500
+00:45:41,400 --> 00:45:46,240
+<font color="#ffff00">Lokman, your father, you think</font>
+<font color="#ffff00">your father never noticed you,</font>
+
+501
+00:45:46,240 --> 00:45:50,560
+<font color="#ffff00">never loved you</font>
+<font color="#ffff00">as he did your sister?</font>
+
+502
+00:45:50,560 --> 00:45:57,000
+<font color="#ffff00">But let me tell you, your father</font>
+<font color="#ffff00">would do anything for you.</font>
+
+503
+00:45:57,000 --> 00:46:01,840
+<font color="#ffff00">I'm very sorry that your father</font>
+<font color="#ffff00">made you feel that you don't matter.</font>
+
+504
+00:46:01,840 --> 00:46:03,840
+<font color="#ffff00">Take it from me,</font>
+
+505
+00:46:03,840 --> 00:46:06,240
+<font color="#ffff00">you are the only thing that does.</font>
+
+506
+00:46:07,520 --> 00:46:11,720
+<font color="#ffff00">Lokman, that man would confess</font>
+
+507
+00:46:11,720 --> 00:46:15,000
+<font color="#ffff00">to his own daughter's murder</font>
+<font color="#ffff00">for you.</font>
+
+508
+00:46:16,400 --> 00:46:21,160
+<font color="#00ff00">You just...don't...get it!</font>
+
+509
+00:46:21,160 --> 00:46:22,960
+<font color="#ffff00">Of course, I can't...</font>
+
+510
+00:46:22,960 --> 00:46:28,320
+<font color="#ffff00">How could I possibly comprehend</font>
+<font color="#ffff00">what it is like to be you?</font>
+
+511
+00:46:28,320 --> 00:46:31,040
+<font color="#ffff00">To grow up in this world</font>
+<font color="#ffff00">that we've given you.</font>
+
+512
+00:46:31,040 --> 00:46:32,880
+<font color="#ffff00">We are failures.</font>
+
+513
+00:46:32,880 --> 00:46:36,720
+<font color="#ffff00">This is a damaged planet</font>
+<font color="#ffff00">we're handing over to you.</font>
+
+514
+00:46:36,720 --> 00:46:43,040
+<font color="#ffff00">When I look at you,</font>
+<font color="#ffff00">any of you, all I see is hope.</font>
+
+515
+00:46:43,040 --> 00:46:44,280
+<font color="#ffff00">So...</font>
+
+516
+00:46:46,360 --> 00:46:49,000
+<font color="#ffff00">..we can fix this, really.</font>
+
+517
+00:46:49,000 --> 00:46:50,560
+<font color="#ffff00">Come on, we can really fix this.</font>
+
+518
+00:46:53,400 --> 00:46:54,600
+<font color="#ffff00">Cicek!</font>
+
+519
+00:47:08,560 --> 00:47:11,320
+<font color="#ffffff">Watch the trigger,</font>
+<font color="#ffffff">his finger pressed down.</font>
+
+520
+00:47:19,440 --> 00:47:22,080
+<font color="#00ffff">Thank you, Kemal. Thank you.</font>
+
+521
+00:47:40,280 --> 00:47:43,120
+<font color="#ffffff">Hi, Dad. Yeah, it's me.</font>
+
+522
+00:47:48,720 --> 00:47:52,280
+<font color="#ffffff">You know, let's do something.</font>
+
+523
+00:48:02,120 --> 00:48:04,520
+<font color="#ffffff">NO AUDIBLE DIALOGUE</font>
+
+524
+00:49:14,840 --> 00:49:16,320
+<font color="#ffffff">DOOR BUZZES</font>
+
+525
+00:50:17,120 --> 00:50:21,000
+<font color="#ffffff">So...what's next?</font>
+
+526
+00:50:21,000 --> 00:50:22,720
+<font color="#00ff00">I don't know.</font>
+
+527
+00:50:22,720 --> 00:50:26,080
+<font color="#00ff00">Stay in Istanbul, I guess.</font>
+
+528
+00:50:26,080 --> 00:50:28,880
+<font color="#00ff00">Not much for me here,</font>
+
+529
+00:50:28,880 --> 00:50:31,200
+<font color="#00ff00">but there is nothing anywhere else.</font>
+
+530
+00:50:43,880 --> 00:50:47,040
+<font color="#ffffff">I'm going to help you however I can.</font>
+
+531
+00:50:50,120 --> 00:50:52,480
+<font color="#ffffff">But I'm going to need</font>
+<font color="#ffffff">something from you.</font>
+
+532
+00:50:56,800 --> 00:50:59,040
+<font color="#ffffff">You ever heard of Kayra Khan?</font>
+
+533
+00:51:05,000 --> 00:51:08,040
+<font color="#ffffff">MUSIC: 21 / Queen</font>
+<font color="#ffffff">by Elanur</font>
+
